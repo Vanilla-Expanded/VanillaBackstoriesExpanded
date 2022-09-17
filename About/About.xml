@@ -6,8 +6,13 @@
 	<li>1.3</li>
 	</supportedVersions>
 	<packageId>VanillaExpanded.VanillaBackstoriesExpanded</packageId>
-	<description>Test.
-</description>
+	<description>Vanilla Backstories Expanded was a mod suggested by my patrons right after we released Vanilla Backgrounds Expanded and everyone thought that was the mod adding backstories. It wasn’t. This one is.
+
+This mod features over 150 backstories, carefully selected from the submissions from our Patrons and testers, as well as quite a large number of backstories written by us, VE team members. I have ran a little experiment and asked various people from our community channels to write their own backstory that reflects what they do in real life, but placed in RimWorld universe. Some submissions have been absolutely stellar, and that inspired us to put them in the game.
+
+We have paid extreme attention to making sure that they all fit the game perfectly. They should be very well balanced as well - we made several balance passes and ran a VE-team vote on the most fitting backstories.
+
+If you find any typos or issues, please be sure to let us know, telling us which specific backstory you have found a problem with!</description>
   <modDependencies>
     <li>
       <packageId>brrainz.harmony</packageId>
