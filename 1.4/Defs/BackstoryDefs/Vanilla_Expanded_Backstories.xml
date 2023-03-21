@@ -1,10 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
 <Defs>
   <BackstoryDef>
     <slot>Adulthood</slot>
     <title>Pirate chef</title>
     <defName>VBE_PirateChef</defName>
     <titleShort>Chef</titleShort>
-    <baseDesc>[PAWN_nameDef] was the Chef on a pirate ship. Between meals, they told tall tales that kept the crew's morale high. The crew's loyalty to their chef was great, possibly even greater than to their captain...</baseDesc>
+    <baseDesc>[PAWN_nameDef] was the Chef on a pirate ship. Between meals, [PAWN_pronoun] told tall tales that kept the crew's morale high. The crew's loyalty to their chef was great, possibly even greater than to their captain...</baseDesc>
     <spawnCategories>
       <li>Pirate</li>
     </spawnCategories><bodyTypeMale>Male</bodyTypeMale><bodyTypeFemale>Female</bodyTypeFemale>
@@ -30,7 +31,7 @@
     <title>Gene-modded beauty</title>
     <defName>VBE_GeneModdedBeauty</defName>
     <titleShort>Beauty</titleShort>
-    <baseDesc>[PAWN_nameDef] Is the result of some of their home glitterworld's most advanced cosmetic surgery. During [PAWN_objective]  life they spent an untold fortune on their looks, they didn't have much time for to practice any more practical of skills. </baseDesc>
+    <baseDesc>[PAWN_nameDef] is the result of some of [PAWN_possessive] home glitterworld's most advanced cosmetic surgery. During [PAWN_possessive] life, [PAWN_pronoun] spent an untold fortune on [PAWN_possessive] looks and didn't have much time for to practice any more practical of skills.</baseDesc>
     <spawnCategories>
       <li>Offworld</li>
     </spawnCategories><bodyTypeMale>Male</bodyTypeMale><bodyTypeFemale>Female</bodyTypeFemale>
@@ -203,7 +204,7 @@ This gave a basic understanding of human anatomy to [PAWN_nameDef], but scarred 
     <title>Midworld nomad</title>
     <defName>VBE_MidworldNomad</defName>
     <titleShort>Nomad child</titleShort>
-    <baseDesc>[PAWN_nameDef] spent their younger years on a midworld studying variety of both modern and historical subjects including agriculture, engineering and politics. After their transport pod crashed on a Medieval world, [PAWN_nameDef] was heralded as summoned champion sent by the Gods, in then next few years [PAWN_nameDef] started to introduce several cultural, technological, and societal reforms that would drastically improve the quality of life on this world.</baseDesc>
+    <baseDesc>[PAWN_nameDef] spent [PAWN_possessive] younger years on a midworld studying variety of both modern and historical subjects including agriculture, engineering and politics. After [PAWN_possessive] transport pod crashed on a Medieval world, [PAWN_nameDef] was heralded as a summoned champion sent by the Gods. In the next few years, [PAWN_pronoun] started to introduce several cultural, technological, and societal reforms that would drastically improve the quality of life on this world.</baseDesc>
     <spawnCategories>
       <li>Outlander</li>
       <li>Offworld</li>
@@ -224,7 +225,7 @@ This gave a basic understanding of human anatomy to [PAWN_nameDef], but scarred 
     <title>Dog walker</title>
     <defName>VBE_DogWalker</defName>
     <titleShort>Walker</titleShort>
-    <baseDesc>[PAWN_nameDef] enjoys being around animals so much, they volunteered at their local shelter to help walk the dogs and give them some exercise. That lasted until [PAWN_pronoun] realized how lucrative of a business it could be and [PAWN_nameDef] scaled up operations to become a full time dog walker with dozens of clients. </baseDesc>
+    <baseDesc>[PAWN_nameDef] enjoys being around animals so much, [PAWN_pronoun] volunteered at their local shelter to help walk the dogs and give them some exercise. That lasted until [PAWN_pronoun] realized how lucrative of a business it could be and [PAWN_nameDef] scaled up operations to become a full time dog walker with dozens of clients.</baseDesc>
     <spawnCategories>
       <li>Offworld</li>
     </spawnCategories><bodyTypeMale>Male</bodyTypeMale><bodyTypeFemale>Female</bodyTypeFemale>
@@ -331,7 +332,7 @@ This gave a basic understanding of human anatomy to [PAWN_nameDef], but scarred 
     <title>Cannibalistic surgeon</title>
     <defName>VBE_CannibalisticSurgeon</defName>
     <titleShort>Surgeon</titleShort>
-    <baseDesc>[PAWN_nameDef] was a surgeon at a prestigious institution until [PAWN_possessive] tendency to take 'culinary liberties' with the deceased was revealed. Rather than damage their reputation by going public, [PAWN_pronoun] was offered a one way trip to a distant rimworld as a 'retirement package'.</baseDesc>
+    <baseDesc>[PAWN_nameDef] was a surgeon at a prestigious institution until [PAWN_possessive] tendency to take 'culinary liberties' with the deceased was revealed. Rather than damage [PAWN_possessive] reputation by going public, [PAWN_pronoun] was offered a one way trip to a distant rimworld as a 'retirement package'.</baseDesc>
     <spawnCategories>
       <li>Outlander</li>
       <li>Pirate</li>
@@ -382,7 +383,7 @@ This gave a basic understanding of human anatomy to [PAWN_nameDef], but scarred 
     <title>Troupe child</title>
     <defName>VBE_TroupeChild</defName>
     <titleShort>Troupe Child</titleShort>
-    <baseDesc>[PAWN_nameDef] was born into a traveling troupe family, but never fell into the craft. As such, they relegated themselves to odd jobs and keeping their head down, which they thrived at. The nomadic nature of their family, however, made it so [PAWN_pronoun] did not make many friends.</baseDesc>
+    <baseDesc>[PAWN_nameDef] was born into a traveling troupe family, but never fell into the craft. As such, [PAWN_pronoun] relegated [PAWN_objective]self to odd jobs and keeping [PAWN_possessive] head down, which [PAWN_pronoun] thrived at. The nomadic nature of [PAWN_possessive] family, however, made it so [PAWN_pronoun] did not make many friends.</baseDesc>
     <spawnCategories>
       <li>Outlander</li>
     </spawnCategories><bodyTypeMale>Male</bodyTypeMale><bodyTypeFemale>Female</bodyTypeFemale>
@@ -425,7 +426,7 @@ This gave a basic understanding of human anatomy to [PAWN_nameDef], but scarred 
     <title>Cannonfodder</title>
     <defName>VBE_Cannonfodder</defName>
     <titleShort>Cannonfodder</titleShort>
-    <baseDesc>[PAWN_nameDef] didn’t have any opportunities or connections with influential individuals after reaching adulthood. Knowing [PAWN_possessive] only opportunity was to join the military, [PAWN_pronoun] enlisted into the lowest ranks of the army.</baseDesc>
+    <baseDesc>[PAWN_nameDef] didn't have any opportunities or connections with influential individuals after reaching adulthood. Knowing [PAWN_possessive] only opportunity was to join the military, [PAWN_pronoun] enlisted into the lowest ranks of the army.</baseDesc>
     <spawnCategories>
       <li>Offworld</li>
       <li>Outsider</li>
@@ -503,7 +504,7 @@ This gave a basic understanding of human anatomy to [PAWN_nameDef], but scarred 
     <title>Drill operator</title>
     <defName>VBE_DrillOperator</defName>
     <titleShort>Driller</titleShort>
-    <baseDesc>[PAWN_nameDef] was employed in a crust-penetrating mining operation gone wrong. [PAWN_nameDef] was one of the few survivors, and with the others [PAWN_pronoun] brought a legal case against the mining company on the basis that they'd covered up discovery of insectoid infestation to secure more profits. When the company started silencing the survivors, [PAWN_pronoun] stowed away on a starship for safety's sake.</baseDesc>
+    <baseDesc>[PAWN_nameDef] was employed in a crust-penetrating mining operation gone wrong. [PAWN_nameDef] was one of the few survivors, and with the others, [PAWN_pronoun] brought a legal case against the mining company on the basis that they'd covered up the discovery of insectoid infestation to secure more profits. When the company started silencing the survivors, [PAWN_pronoun] stowed away on a starship for safety's sake.</baseDesc>
     <spawnCategories>
       <li>Outlander</li>
       <li>Pirate</li>
@@ -519,7 +520,7 @@ This gave a basic understanding of human anatomy to [PAWN_nameDef], but scarred 
     <title>Walker engineer</title>
     <defName>VBE_WalkerEngineer</defName>
     <titleShort>Engineer</titleShort>
-    <baseDesc>Always eager for a challenge, [PAWN_nameDef] worked on various military vehicles, including the frightening Warwalkers. A tough and sweaty job with high risk of limb injury, [PAWN_nameDef] adapted quickly to strenuous work cycles. This cost their creativity, however, and left little time for other hobbies.</baseDesc>
+    <baseDesc>Always eager for a challenge, [PAWN_nameDef] worked on various military vehicles, including the frightening Warwalkers. A tough and sweaty job with high risk of limb injury, [PAWN_nameDef] adapted quickly to strenuous work cycles. This cost [PAWN_objective] [PAWN_possessive] creativity, however, and left little time for other hobbies.</baseDesc>
     <spawnCategories>
       <li>Offworld</li>
     </spawnCategories><bodyTypeMale>Male</bodyTypeMale><bodyTypeFemale>Female</bodyTypeFemale>
@@ -584,7 +585,7 @@ This gave a basic understanding of human anatomy to [PAWN_nameDef], but scarred 
     <title>Lighthouse keeper</title>
     <defName>VBE_LighthouseKeeper</defName>
     <titleShort>Keeper</titleShort>
-    <baseDesc>A solitary individual, [PAWN_nameDef] has spent a large portion of their life tending to the (mostly) automated lighthouse space stations. Feeding navigational information to ships of many eras, these quiet postings were often considered punishments by those who worked them. [PAWN_nameDef] disagrees, however, and the quiet was wonderful for them and their art.</baseDesc>
+    <baseDesc>A solitary individual, [PAWN_nameDef] has spent a large portion of [PAWN_possessive] life tending to the (mostly) automated lighthouse space stations. Feeding navigational information to ships of many eras, these quiet postings were often considered punishments by those who worked them. [PAWN_nameDef] disagrees, however, and the quiet was wonderful for [PAWN_objective] and [PAWN_possessive] art.</baseDesc>
     <spawnCategories>
       <li>Pirate</li>
       <li>Offworld</li>
@@ -647,7 +648,7 @@ This gave a basic understanding of human anatomy to [PAWN_nameDef], but scarred 
     <title>Barber</title>
     <defName>VBE_Barber</defName>
     <titleShort>Barber</titleShort>
-    <baseDesc>[PAWN_nameDef] worked as a barber, cutting and styling hair. Knows their way around a pair of scissors and can keep conversations going with [PAWN_possessive] clients.</baseDesc>
+    <baseDesc>[PAWN_nameDef] worked as a barber, cutting and styling hair. [PAWN_pronoun] knows [PAWN_possessive] way around a pair of scissors and can keep conversations going with [PAWN_possessive] clients.</baseDesc>
     <spawnCategories>
       <li>Outlander</li>
       <li>Offworld</li>
@@ -667,7 +668,7 @@ This gave a basic understanding of human anatomy to [PAWN_nameDef], but scarred 
     <title>Addicted gamer</title>
     <defName>VBE_AddictedGamer</defName>
     <titleShort>Gamer</titleShort>
-    <baseDesc>[PAWN_nameDef] has an addiction to video games and can often be found gaming late into the morning. [PAWN_possessive] fits all the negative stereotypes from the messy room to the social awkwardness, but at least [PAWN_objective]'s learned a few things about crafting and mining.</baseDesc>
+    <baseDesc>[PAWN_nameDef] has an addiction to video games and can often be found gaming late into the morning. [PAWN_pronoun] fits all the negative stereotypes from the messy room to the social awkwardness, but at least [PAWN_pronoun]'s learned a few things about crafting and mining.</baseDesc>
     <spawnCategories>
       <li>Offworld</li>
     </spawnCategories><bodyTypeMale>Male</bodyTypeMale><bodyTypeFemale>Female</bodyTypeFemale>
@@ -691,7 +692,7 @@ This gave a basic understanding of human anatomy to [PAWN_nameDef], but scarred 
     <title>Vatgrown colonist</title>
     <defName>VBE_VatgrownColonist</defName>
     <titleShort>Colonist</titleShort>
-    <baseDesc>[PAWN_nameDef] was grown in a lab as an expendable body on [PAWN_objective] Glitterworld. [PAWN_pronoun] was raised along with the other grown standard template children and only knew life under their scientist guides. </baseDesc>
+    <baseDesc>[PAWN_nameDef] was grown in a lab as an expendable body on [PAWN_possessive] Glitterworld. [PAWN_pronoun] was raised along with the other standard template children who only knew life under their scientist guides.</baseDesc>
     <spawnCategories>
       <li>Offworld</li>
     </spawnCategories><bodyTypeMale>Male</bodyTypeMale><bodyTypeFemale>Female</bodyTypeFemale>
@@ -714,7 +715,7 @@ This gave a basic understanding of human anatomy to [PAWN_nameDef], but scarred 
     <title>Structural engineer</title>
     <defName>VBE_StructuralEngineer</defName>
     <titleShort>Engineer</titleShort>
-    <baseDesc>After studying engineering for a few years, [PAWN_nameDef] now designs buildings, bridges, and other structures. [PAWN_objective] has a great understanding on how to construct every part of a project. Much of their time goes to coordinating with the architect, contractor, and other engineers.</baseDesc>
+    <baseDesc>After studying engineering for a few years, [PAWN_nameDef] now designs buildings, bridges, and other structures. [PAWN_pronoun] has a great understanding of how to construct every part of a project. Much of [PAWN_possessive] time goes to coordinating with the architect, contractor, and other engineers.</baseDesc>
     <spawnCategories>
       <li>Outlander</li>
     </spawnCategories><bodyTypeMale>Male</bodyTypeMale><bodyTypeFemale>Female</bodyTypeFemale>
@@ -732,7 +733,7 @@ This gave a basic understanding of human anatomy to [PAWN_nameDef], but scarred 
     <title>Wretched child</title>
     <defName>VBE_WretchedChild</defName>
     <titleShort>Wretch</titleShort>
-    <baseDesc>As a child, [PAWN_nameDef] was cast out by [PAWN_objective] peers. [PAWN_pronoun] grew uncaring of others and focused on surviving with what [PAWN_pronoun] had near [PAWN_possessive] home.</baseDesc>
+    <baseDesc>As a child, [PAWN_nameDef] was cast out by [PAWN_possessive] peers. [PAWN_pronoun] grew uncaring of others and focused on surviving with what [PAWN_pronoun] had near [PAWN_possessive] home.</baseDesc>
     <spawnCategories>
       <li>Tribal</li>
     </spawnCategories><bodyTypeMale>Male</bodyTypeMale><bodyTypeFemale>Female</bodyTypeFemale>
@@ -776,7 +777,7 @@ This gave a basic understanding of human anatomy to [PAWN_nameDef], but scarred 
     <title>Gifted burnout</title>
     <defName>VBE_GiftedBurnout</defName>
     <titleShort>Gifted</titleShort>
-    <baseDesc>From a young age, [PAWN_nameDef] was heralded as a genius. The constant testing, training, and praise from surrounding adults was good, but the constant pressure, expectation, and eventual failure exacerbated a long list of mental disorders lying dormant within [PAWN_nameDef]'s mind. [PAWN_pronoun] still retains [PAWN_objective] training, but making use of it will be difficult for the rest of [PAWN_objective] life.</baseDesc>
+    <baseDesc>From a young age, [PAWN_nameDef] was heralded as a genius. The constant testing, training, and praise from surrounding adults was good, but the constant pressure, expectation, and eventual failure exacerbated a long list of mental disorders lying dormant within [PAWN_nameDef]'s mind. [PAWN_pronoun] still retains [PAWN_possessive] training, but making use of it will be difficult for the rest of [PAWN_possessive] life.</baseDesc>
     <spawnCategories>
       <li>Tribal</li>
       <li>Outlander</li>
@@ -813,7 +814,7 @@ Stoner/Lush (VTE)
     <title>Forgotten child</title>
     <defName>VBE_ForgottenChild</defName>
     <titleShort>Disappeared</titleShort>
-    <baseDesc>When [PAWN_nameDef] was young [PAWN_pronoun] came across a secret door in [PAWN_possessive] grandfather's antic shop. Curious of what may lie beyond it, [PAWN_pronoun] wandered in and tells of a land of endless adventure. There's no way of knowing if that were true, but seeing as [PAWN_nameDef] was found as child, forgotten in cryptosleep nearly a hundred years later, nothing seems impossible.</baseDesc>
+    <baseDesc>When [PAWN_nameDef] was young, [PAWN_pronoun] came across a secret door in [PAWN_possessive] grandfather's antique shop. Curious of what may lie beyond it, [PAWN_pronoun] wandered in and tells of a land of endless adventure. There's no way of knowing if that were true, but seeing as [PAWN_nameDef] was found as child, forgotten in cryptosleep nearly a hundred years later, nothing seems impossible.</baseDesc>
     <spawnCategories>
       <li>Outlander</li>
     </spawnCategories><bodyTypeMale>Male</bodyTypeMale><bodyTypeFemale>Female</bodyTypeFemale>
@@ -853,7 +854,7 @@ Stoner/Lush (VTE)
     <title>Industrial tinkerer</title>
     <defName>VBE_IndustrialTinkerer</defName>
     <titleShort>Tinkerer</titleShort>
-    <baseDesc>Once finding [PAWN_possessive] passion in the way things work, [PAWN_nameDef] became enthralled with tinkering, building and coding. Taking inspiration from nature and the machines [PAWN_pronoun] disassembled, [PAWN_nameDef] built many useful mechanical and electrical contraptions to improve [PAWN_possessive] everyday life. While exploring and studying nature, [PAWN_pronoun] also learned about basic survival needs, and some basic healing. Due to always being in [PAWN_possessive] mind, [PAWN_nameDef] is not very sociable, and [PAWN_possessive] is always high strung.</baseDesc>
+    <baseDesc>Once finding [PAWN_possessive] passion in the way things work, [PAWN_nameDef] became enthralled with tinkering, building and coding. Taking inspiration from nature and the machines [PAWN_pronoun] disassembled, [PAWN_nameDef] built many useful mechanical and electrical contraptions to improve [PAWN_possessive] everyday life. While exploring and studying nature, [PAWN_pronoun] also learned about basic survival needs, and some basic healing. Due to always being in [PAWN_possessive] mind, [PAWN_nameDef] is not very sociable, and is always high strung.</baseDesc>
     <spawnCategories>
       <li>Outlander</li>
       <li>Offworld</li>
@@ -917,7 +918,7 @@ Stoner/Lush (VTE)
     <title>Reincarnated soul</title>
     <defName>VBE_ReincarnatedSoul</defName>
     <titleShort>Reincarnated</titleShort>
-    <baseDesc>[PAWN_nameDef] believes [PAWN_pronoun] was once a pious steward of some long, lost religion. Reborn again to live life as they choose, [PAWN_nameDef] seems to have an unnatural proficiency with cooking and art of craft despite [PAWN_objective] young age.</baseDesc>
+    <baseDesc>[PAWN_nameDef] believes [PAWN_pronoun] was once a pious steward of some long, lost religion. Reborn again to live life as [PAWN_pronoun] choose, [PAWN_nameDef] seems to have an unnatural proficiency with cooking and art of craft despite [PAWN_possessive] young age.</baseDesc>
     <spawnCategories>
       <li>Tribal</li>
       <li>MedievalCommon</li>
@@ -1037,7 +1038,7 @@ Stoner/Lush (VTE)
     <title>Urbworld war student</title>
     <defName>VBE_UrbworldWarStudent</defName>
     <titleShort>Student</titleShort>
-    <baseDesc>[PAWN_nameDef] grew up in fairly plush conditions on a turbulent Urbworld. They dedicated much of their childhood to formal studies on a planet constantly engulfed in conflict. As a result [PAWN_nameDef] grew up with an intricate understanding about the machines of war and developed a passion for them.</baseDesc>
+    <baseDesc>[PAWN_nameDef] grew up in fairly plush conditions on a turbulent Urbworld. [PAWN_pronoun] dedicated much of [PAWN_possessive] childhood to formal studies on a planet constantly engulfed in conflict. As a result, [PAWN_nameDef] grew up with an intricate understanding about the machines of war and developed a passion for them.</baseDesc>
     <spawnCategories>
       <li>Offworld</li>
     </spawnCategories><bodyTypeMale>Male</bodyTypeMale><bodyTypeFemale>Female</bodyTypeFemale>
@@ -1127,7 +1128,7 @@ Other forced trait: Jogger 50%-->
     <title>Ship salvager</title>
     <defName>VBE_ShipSalvager</defName>
     <titleShort>Salvager</titleShort>
-    <baseDesc>Quick, crafty, and dirty, thats how [PAWN_nameDef] lives. [PAWN_nameDef] took up the dangerous work of ship breaking as a way to make a living for himself. Overtime [PAWN_pronoun] became very good at what they do, taking things apart, and nearly getting themselves killed on almost every job.</baseDesc>
+    <baseDesc>Quick, crafty, and dirty. That's how [PAWN_nameDef] lives. [PAWN_pronoun] embraced the perilous trade of ship breaking as a means of survival. [PAWN_possessive] expertise grew, as [PAWN_pronoun] excelled at taking apart vessels, but the risk remained high, with near-death experiences on nearly every job.</baseDesc>
     <spawnCategories>
       <li>Offworld</li>
     </spawnCategories><bodyTypeMale>Male</bodyTypeMale><bodyTypeFemale>Female</bodyTypeFemale>
@@ -1143,7 +1144,7 @@ Other forced trait: Jogger 50%-->
     <title>Civil rights activist</title>
     <defName>VBE_CivilRightsActivist</defName>
     <titleShort>Activist</titleShort>
-    <baseDesc>[PAWN_nameDef] became aware of various societal injustices not long after leaving their family home for higher education, and sought to become a force for positive change. They organized rallies in front of administrative buildings during semester breaks, designing their own signs and slogans.</baseDesc>
+    <baseDesc>[PAWN_nameDef] became aware of various societal injustices not long after leaving [PAWN_possessive] family home for higher education, and sought to become a force for positive change. [PAWN_pronoun] organized rallies in front of administrative buildings during semester breaks, designing signs and slogans.</baseDesc>
     <spawnCategories>
       <li>Offworld</li>
     </spawnCategories><bodyTypeMale>Male</bodyTypeMale><bodyTypeFemale>Female</bodyTypeFemale>
@@ -1164,7 +1165,7 @@ Other forced trait: Jogger 50%-->
     <title>Urbworld rioter</title>
     <defName>VBE_UrbworldRioter</defName>
     <titleShort>Rioter</titleShort>
-    <baseDesc>When peaceful protest was not enough to incite social change, [PAWN_nameDef] would dawn their makeshift gear and take the fight against authority to the city streets. At a severe disadvantage against those in power, [PAWN_nameDef] had to fashion their own weapons and protection, and tend to their own wounds.</baseDesc>
+    <baseDesc>When peaceful protest was not enough to incite social change, [PAWN_nameDef] would don [PAWN_possessive] makeshift gear and take the fight against authority to the city streets. At a severe disadvantage against those in power, [PAWN_nameDef] had to fashion [PAWN_possessive] own weapons and protection, and tend to [PAWN_possessive] own wounds.</baseDesc>
     <spawnCategories>
       <li>Offworld</li>
       <li>ImperialCommon</li>
@@ -1187,7 +1188,7 @@ Other forced trait: Jogger 50%-->
     <title>Mariner</title>
     <defName>VBE_Mariner</defName>
     <titleShort>Mariner</titleShort>
-    <baseDesc>[PAWN_nameDef] spent most of life [PAWN_possessive] on a ship at sea, securing cargo from port to port. [PAWN_pronoun] was well-versed in keeping the ship intact, but rarely spent much time off a ship or outside of a port.</baseDesc>
+    <baseDesc>[PAWN_nameDef] spent most of [PAWN_possessive] life on a ship at sea, securing cargo from port to port. [PAWN_pronoun] was well-versed in keeping the ship intact, but rarely spent much time off a ship or outside of a port.</baseDesc>
     <spawnCategories>
       <li>Outlander</li>
       <li>Offworld</li>
@@ -1234,7 +1235,7 @@ Other forced trait: Jogger 50%-->
     <title>Food critic</title>
     <defName>VBE_FoodCritic</defName>
     <titleShort>Critic</titleShort>
-    <baseDesc>The child of an esteemed culinary genius, [PAWN_nameDef] used the influence of [PAWN_pronoun] parent's name to launch a career in critiquing the cuisine of their home system. While many restaurants and chefs feared [PAWN_objective], some sought after [PAWN_possessive] mark of approval.</baseDesc>
+    <baseDesc>The child of an esteemed culinary genius, [PAWN_nameDef] used the influence of [PAWN_possessive] parent's name to launch a career in critiquing the cuisine of [PAWN_possessive] home system. While many restaurants and chefs feared [PAWN_objective], some sought after [PAWN_nameDef]'s mark of approval.</baseDesc>
     <spawnCategories>
       <li>Offworld</li>
       <li>ImperialCommon</li>
@@ -1284,7 +1285,7 @@ Other forced trait: Jogger 50%-->
     <title>Marineworld researcher</title>
     <defName>VBE_MarineworldResearcher</defName>
     <titleShort>Marineworlder</titleShort>
-    <baseDesc>Seeing untapped potential in the oceans for feeding colonies and cities alike, [PAWN_nameDef] established themself on a world which was almost entirely covered in ocean. While [PAWN_nameDef] was adept in the study of algae and aquatic life, they rarely took time from work to interact with fellow researchers or hone other skills.</baseDesc>
+    <baseDesc>Seeing untapped potential in the oceans for feeding colonies and cities alike, [PAWN_nameDef] established [PAWN_objective]self on a world which was almost entirely covered in ocean. While [PAWN_nameDef] was adept in the study of algae and aquatic life, [PAWN_pronoun] rarely took time from work to interact with fellow researchers or hone other skills.</baseDesc>
     <spawnCategories>
       <li>Offworld</li>
       <li>ImperialCommon</li>
@@ -1313,7 +1314,7 @@ Other forced trait: Jogger 50%-->
     <title>Informant</title>
     <defName>VBE_Informant</defName>
     <titleShort>Informant</titleShort>
-    <baseDesc>[PAWN_nameDef] was once in a major criminal organization, but after being caught,  [PAWN_pronoun] became an informant for Glitterworld Law Enforcement. As part of the deal, they would be given a new name and identity and be shipped off to an outer world.</baseDesc>
+    <baseDesc>[PAWN_nameDef] was once in a major criminal organization, but after being caught, [PAWN_pronoun] became an informant for Glitterworld Law Enforcement. As part of the deal, [PAWN_pronoun] would be given a new name and identity and be shipped off to an outer world.</baseDesc>
     <spawnCategories>
       <li>ImperialCommon</li>
     </spawnCategories><bodyTypeMale>Male</bodyTypeMale><bodyTypeFemale>Female</bodyTypeFemale>
@@ -1340,7 +1341,7 @@ Other forced trait: Jogger 50%-->
     <title>Eldest caretaker</title>
     <defName>VBE_EldestCaretaker</defName>
     <titleShort>Caretaker</titleShort>
-    <baseDesc>As the eldest child, it was the job of [PAWN_nameDef] to look after their younger siblings. While the adults were away working, [PAWN_pronoun] got used to being in charge, but didn't have much chance to explore on their own as a child.</baseDesc>
+    <baseDesc>As the eldest child, it was the job of [PAWN_nameDef] to look after [PAWN_possessive] younger siblings. While the adults were away working, [PAWN_pronoun] got used to being in charge, but didn't have much chance to explore on [PAWN_possessive] own as a child.</baseDesc>
     <spawnCategories>
       <li>Tribal</li>
       <li>Outlander</li>
@@ -1364,7 +1365,7 @@ Other forced trait: Jogger 50%-->
     <title>Oracle</title>
     <defName>VBE_Oracle</defName>
     <titleShort>Oracle</titleShort>
-    <baseDesc>[PAWN_nameDef] wasn't like everyone else, and they all knew it. The strange visions, outbursts and eccentric behavior always kept [PAWN_nameDef] at arm's length from others. [PAWN_objective] would have been outcast long before, were it not for [PAWN_possessive] visions so often true.</baseDesc>
+    <baseDesc>[PAWN_nameDef] wasn't like everyone else, and they all knew it. The strange visions, outbursts and eccentric behavior always kept [PAWN_nameDef] at arm's length from others. [PAWN_pronoun] would have been outcast long before, were it not for [PAWN_possessive] visions so often true.</baseDesc>
     <spawnCategories>
       <li>Tribal</li>
       <li>MedievalCommon</li>
@@ -1390,7 +1391,7 @@ Other forced trait: Jogger 50%-->
     <title>Apprentice</title>
     <defName>VBE_Apprentice</defName>
     <titleShort>Apprentice</titleShort>
-    <baseDesc>Once of age, a young [PAWN_nameDef] took to study under the great masters, learning from the bottom up. [PAWN_objective] left family and home to pursue a passion and trade. The work was grueling but it was all worth to carve out their own path.</baseDesc>
+    <baseDesc>Once of age, a young [PAWN_nameDef] took to study under the great masters, learning from the bottom up. [PAWN_pronoun] left family and home to pursue a passion and trade. The work was grueling, but it was all worth to carve out [PAWN_possessive] own path.</baseDesc>
     <spawnCategories>
       <li>Pirate</li>
       <li>Offworld</li>
@@ -1500,7 +1501,7 @@ Other forced trait: Jogger 50%-->
     <title>Corporate spy</title>
     <defName>VBE_CorporateSpy</defName>
     <titleShort>Spy</titleShort>
-    <baseDesc>[PAWN_nameDef] used to conduct industrial espionage for a big corporation. One of  [PAWN_possessive] mission required [PAWN_objective] to undergo gender reassignment to seduce the CEO of a rival corporation. [PAWN_nameDef] only managed to accomplish  [PAWN_possessive] mission because [PAWN_pronoun] felt more in tune with [PAWN_possessive] new gender than with the previous one. This gave [PAWN_pronoun] a unique perspective and [PAWN_pronoun] started to offer counseling to people feeling overwhelmed by the expectations of others.</baseDesc>
+    <baseDesc>[PAWN_nameDef] used to conduct industrial espionage for a big corporation. One of [PAWN_possessive] missions required [PAWN_objective] to undergo gender reassignment to seduce the CEO of a rival corporation. [PAWN_nameDef] only managed to accomplish [PAWN_possessive] mission because [PAWN_pronoun] felt more in tune with [PAWN_possessive] new gender than the previous one. This gave [PAWN_objective] a unique perspective and [PAWN_pronoun] began to offer counseling to people feeling overwhelmed by the expectations of others.</baseDesc>
     <spawnCategories>
       <li>Outlander</li>
       <li>Offworld</li>
@@ -1525,7 +1526,7 @@ Other forced trait: Jogger 50%-->
     <title>Bull leaper</title>
     <defName>VBE_Bullleaper</defName>
     <titleShort>Acrobat</titleShort>
-    <baseDesc>[PAWN_nameDef] is a dancer and an acrobat. [PAWN_pronoun] used to dance around and leap over the back of a charging bull to entertain the crowd. All bull leapers have to be very agile, but what made [PAWN_pronoun] especially good was [PAWN_possessive] deep understanding of the animal's behavior. As bull leaping is a very dangerous activity, [PAWN_nameDef] often had to provide first aid to wounded colleagues.</baseDesc>
+    <baseDesc>[PAWN_nameDef] is a dancer and an acrobat. [PAWN_pronoun] used to dance around and leap over the back of a charging bull to entertain the crowd. All bull leapers have to be very agile, but what made [PAWN_objective] especially good was [PAWN_possessive] deep understanding of the animal's behavior. As bull leaping is a very dangerous activity, [PAWN_nameDef] often had to provide first aid to wounded colleagues.</baseDesc>
     <spawnCategories>
       <li>Outlander</li>
       <li>Pirate</li>
@@ -1571,7 +1572,7 @@ Other forced trait: Jogger 50%-->
     <title>Cult leader</title>
     <defName>VBE_CultLeader</defName>
     <titleShort>Cultist</titleShort>
-    <baseDesc>[PAWN_nameDef] was a leader of a terrifying cult. [PAWN_possessive] was responsible for performing all kind of bloody rituals. Torturing and sacrificing people was on the daily matter to ensure satisfaction of their always hungry for pain and suffer God. They were all required to wear intimidating masks and long robes to hide their physical appearance. No one could leave the cult alive, at least till now.</baseDesc>
+    <baseDesc>[PAWN_nameDef] held the reigns of a dreaded cult, where [PAWN_pronoun] presided over heinous rituals. [PAWN_pronoun] reveled in the torture and sacrifice of victims, offering them up to appease their merciless deity. All members were made to conceal their identities with frightening masks and ceremonial robes. No one dared leave the cult alive, until now.</baseDesc>
     <spawnCategories>
       <li>Outlander</li>
       <li>Offworld</li>
@@ -1618,7 +1619,7 @@ Other forced trait: Jogger 50%-->
     <title>Standard-bearer</title>
     <defName>VBE_Standardbearer</defName>
     <titleShort>Banneret</titleShort>
-    <baseDesc>[PAWN_nameDef] was a standardbearer.  [PAWN_possessive] had to bear and protect the emblem of  [PAWN_possessive] people in wartime. [PAWN_pronoun] was chosen because of  [PAWN_possessive] fighting skills and [PAWN_possessive] ability to read the battlefield: [PAWN_pronoun] was expected to push forward if a group was wavering and to retreat with the emblem if the battle was lost. [PAWN_pronoun] was freed from cooking and digging duties.</baseDesc>
+    <baseDesc>[PAWN_nameDef] was a fearless standard-bearer, entrusted to carry the symbol of [PAWN_possessive] people into conflict. [PAWN_pronoun] was known for [PAWN_possessive] strategic thinking and combat proficiency, able to lead the charge or retreat with the emblem as needed. [PAWN_possessive] contributions earned [PAWN_objective] a privileged position, freeing [PAWN_objective] from tasks like cooking and digging.</baseDesc>
     <spawnCategories>
       <li>Tribal</li>
       <li>Outlander</li>
@@ -1646,7 +1647,7 @@ Other forced trait: Jogger 50%-->
     <title>Midworld programmer</title>
     <defName>VBE_MidworldProgrammer</defName>
     <titleShort>Programmer</titleShort>
-    <baseDesc>[PAWN_nameDef]'s dream was to become a programmer and create Medicine software to make people's lives better. As it often happens, [PAWN_possessive] life turned out differently. To earn a living, [PAWN_nameDef] had to start writing military software for combat robots. It gave [PAWN_objective] a lot of programming knowledge as well as some insights in weapons' inner workings.</baseDesc>
+    <baseDesc>[PAWN_nameDef]'s dream was to become a programmer and create software that saves lives and enhances people's well-being. Yet, as life often takes unexpected turns, [PAWN_pronoun] found [PAWN_objective]self developing cutting-edge software for the military. The work gave [PAWN_objective] ample opportunity to expand [PAWN_possessive] programming expertise and gain an in-depth understanding of the intricacies of advanced weaponry. Despite the deviation from [PAWN_possessive] original plans, [PAWN_nameDef] embraced the challenge and continued to hone [PAWN_possessive] skills.</baseDesc>
     <spawnCategories>
       <li>Offworld</li>
     </spawnCategories><bodyTypeMale>Male</bodyTypeMale><bodyTypeFemale>Female</bodyTypeFemale>
@@ -1662,7 +1663,7 @@ Other forced trait: Jogger 50%-->
     <title>Landsknecht</title>
     <defName>VBE_Landsknecht</defName>
     <titleShort>Landsknecht</titleShort>
-    <baseDesc>[PAWN_nameDef] was barely scrapping by in [PAWN_possessive] village when the recruiter came. The man told [PAWN_objective] that [PAWN_pronoun] would get his first payment in advance, so [PAWN_nameDef] sold [PAWN_possessive] tools and enlisted. At the beginning, [PAWN_pronoun] only had a pike, but after some time [PAWN_pronoun] was able to buy the extravagant clothing marking [PAWN_objective] as a successful soldier. He never betrayed [PAWN_possessive] principles: don't question the orders of whoever is keeping you fed.</baseDesc>
+    <baseDesc>[PAWN_nameDef] was barely scrapping by in [PAWN_possessive] village when the recruiter came. The man told [PAWN_objective] that [PAWN_pronoun] would get [PAWN_possessive] first payment in advance, so [PAWN_nameDef] sold [PAWN_possessive] tools and enlisted. At the beginning, [PAWN_pronoun] only had a pike, but after some time [PAWN_pronoun] was able to buy the extravagant clothing marking [PAWN_objective] as a successful soldier. He never betrayed [PAWN_possessive] principles: don't question the orders of whoever is keeping you fed.</baseDesc>
     <spawnCategories>
       <li>Tribal</li>
       <li>Outlander</li>
@@ -1682,10 +1683,7 @@ Other forced trait: Jogger 50%-->
     <title>Criminal priest</title>
     <defName>VBE_CriminalPriest</defName>
     <titleShort>Priest</titleShort>
-    <baseDesc>[PAWN_nameDef] somehow wormed their way into a comfortable position among the clergy in a small outlander town on a rimworld.  [PAWN_nameDef] would often exploit this position for personal gain whether it be by blackmailing those who had come to confess, or by directly stealing donations.
-
-During this time [PAWN_nameDef] relied heavily on their charisma to avoid conflict. 
-</baseDesc>
+    <baseDesc>[PAWN_nameDef] somehow wormed [PAWN_possessive] way into a comfortable position among the clergy in a small outlander town on a rimworld. [PAWN_pronoun] would often exploit this position for personal gain whether it be by blackmailing those who had come to confess, or by directly stealing donations.\n\nDuring this time [PAWN_nameDef] relied heavily on [PAWN_possessive] charisma to avoid conflict.</baseDesc>
     <spawnCategories>
       <li>Outlander</li>
       <li>Pirate</li>
@@ -1731,14 +1729,14 @@ During this time [PAWN_nameDef] relied heavily on their charisma to avoid confli
     <forcedTraits>
       <Tough />
     </forcedTraits>
-    <!--I am not sure if “(S)” denotes “disable spectrum,” but that’s what I would like. Also, if we can, I would like to enable the “volatile” trait-->
+    <!--I am not sure if “(S)” denotes “disable spectrum,” but that's what I would like. Also, if we can, I would like to enable the “volatile” trait-->
   </BackstoryDef>
   <BackstoryDef>
     <slot>Adulthood</slot>
     <title>Landscape painter</title>
     <defName>VBE_LandscapePainter</defName>
     <titleShort>Painter</titleShort>
-    <baseDesc>[PAWN_nameDef] has dedicated [PAWN_possessive] life to depicting beautiful landscapes. Though [PAWN_possessive] works didn't bring [PAWN_objective] much recognition, it helped to fund the costs of living at a cost of making [PAWN_objective] somewhat reclusive.</baseDesc>
+    <baseDesc>For as long as [PAWN_nameDef] can remember, capturing breathtaking landscapes has been the focus of [PAWN_possessive] life's work. Despite not receiving much recognition for [PAWN_possessive] creations, [PAWN_nameDef] found solace in the fact that [PAWN_possessive] art helped [PAWN_objective] make ends meet. However, the solitary lifestyle it entailed made [PAWN_objective] somewhat withdrawn from the world.</baseDesc>
     <spawnCategories>
       <li>Offworld</li>
     </spawnCategories><bodyTypeMale>Male</bodyTypeMale><bodyTypeFemale>Female</bodyTypeFemale>
@@ -1752,10 +1750,15 @@ During this time [PAWN_nameDef] relied heavily on their charisma to avoid confli
   </BackstoryDef>
   <BackstoryDef>
     <slot>Adulthood</slot>
-    <title>Dietetician</title>
+    <!-- There are many spelling variations for this profession, but the most common variant
+         used in the US is "Dietitian". On the other hand, UK uses "Dietician", while
+         "Dietetician" is a declension used mainly in Romanian.
+
+         The original defName was kept for compatibility. -->
+    <title>Dietitian</title>
     <defName>VBE_Dietetician</defName>
-    <titleShort>Dietetician</titleShort>
-    <baseDesc>[PAWN_nameDef] was always interested in nutrition and it's effect on the human's body.  [PAWN_pronoun] specialised in treating patients with clinical conditions.</baseDesc>
+    <titleShort>Dietitian</titleShort>
+    <baseDesc>[PAWN_nameDef]'s interest in nutrition led [PAWN_objective] to specialize in treating patients with clinical conditions using personalized nutrition plans. Despite the challenges [PAWN_pronoun] faced, [PAWN_nameDef] remained committed to using [PAWN_possessive] knowledge of food and nutrition to make a positive impact on the lives of those [PAWN_pronoun] treated.</baseDesc>
     <spawnCategories>
       <li>Offworld</li>
     </spawnCategories><bodyTypeMale>Male</bodyTypeMale><bodyTypeFemale>Female</bodyTypeFemale>
@@ -1773,7 +1776,7 @@ During this time [PAWN_nameDef] relied heavily on their charisma to avoid confli
     <title>Art critic</title>
     <defName>VBE_ArtCritic</defName>
     <titleShort>Critic</titleShort>
-    <baseDesc>[PAWN_nameDef] has made a name for themselves as one of the most influential critics, [PAWN_possessive] reviews could make or break careers.</baseDesc>
+    <baseDesc>[PAWN_nameDef] has made a name for themselves as one of the most influential critics. [PAWN_possessive] reviews could make or break careers.</baseDesc>
     <spawnCategories>
       <li>Offworld</li>
     </spawnCategories><bodyTypeMale>Male</bodyTypeMale><bodyTypeFemale>Female</bodyTypeFemale>
@@ -1831,7 +1834,7 @@ During this time [PAWN_nameDef] relied heavily on their charisma to avoid confli
     <title>Tax collector</title>
     <defName>VBE_TaxCollector</defName>
     <titleShort>Collector</titleShort>
-    <baseDesc>[PAWN_nameDef] has been appointed with the duty of collecting taxes and other payments from various merchants of [PAWN_possessive] settlement. Due to nature of such job [PAWN_objective] was one of the most hated person in town, but the cut from the taxes [PAWN_pronoun] took made the job worth it.</baseDesc>
+    <baseDesc>[PAWN_nameDef] has been appointed with the duty of collecting taxes and other payments from various merchants of [PAWN_possessive] settlement. Due to nature of [PAWN_possessive] job, [PAWN_pronoun] was one of the most despised people in town, but the cut from the taxes [PAWN_pronoun] took made the job worth it.</baseDesc>
     <spawnCategories>
       <li>Outlander</li>
       <li>MedievalCommon</li>
@@ -1926,7 +1929,7 @@ As a hobby, [PAWN_nameDef] began collecting helmets stolen from military police.
     <title>Mattress tester</title>
     <defName>VBE_MattressTester</defName>
     <titleShort>Mattress</titleShort>
-    <baseDesc>[PAWN_nameDef] rated various mattress, mostly in their softness and the quality of sleep they provide. Naps on the job were contracually enforced. Some called it "the best job in the world".</baseDesc>
+    <baseDesc>[PAWN_nameDef] got paid to take naps on different beds and rate them based on their softness and the quality of sleep they provide. People often remarked that [PAWN_possessive] job is "the best job in the world", since naps are contractually required.</baseDesc>
     <spawnCategories>
       <li>Offworld</li>
     </spawnCategories><bodyTypeMale>Male</bodyTypeMale><bodyTypeFemale>Female</bodyTypeFemale>
@@ -1943,7 +1946,7 @@ As a hobby, [PAWN_nameDef] began collecting helmets stolen from military police.
     <title>Extranet troll</title>
     <defName>VBE_ExtranetTroll</defName>
     <titleShort>Troll</titleShort>
-    <baseDesc>[PAWN_nameDef] spent [PAWN_possessive] days spreading disinformation across the extranet at the behest of his employers. Eventually, [PAWN_pronoun] outlived [PAWN_possessive] usefulness and was fired, and with no marketable skills, [PAWN_pronoun] had to work miserable, dead-end jobs just to feed [PAWN_objective]self. </baseDesc>
+    <baseDesc>[PAWN_nameDef] spent [PAWN_possessive] days spreading disinformation across the extranet at the behest of [PAWN_possessive] employers. Eventually, [PAWN_pronoun] outlived [PAWN_possessive] usefulness and was fired, and with no marketable skills, [PAWN_pronoun] had to work miserable, dead-end jobs just to feed [PAWN_objective]self. </baseDesc>
     <spawnCategories>
       <li>Offworld</li>
       <li>Outsider</li>
@@ -1985,7 +1988,7 @@ As a hobby, [PAWN_nameDef] began collecting helmets stolen from military police.
     <title>Prosecuted war veteran</title>
     <defName>VBE_ProsecutedWarVeteran</defName>
     <titleShort>Prosecuted Vet</titleShort>
-    <baseDesc>[PAWN_nameDef] has joined the military in wrong side of civil war. Turning the war [PAWN_nameDef] were trained in shooting and urban warfare. After the war concluded , [PAWN_nameDef] was prosecuted by the local government and banished. Due to [PAWN_pronoun] prosecution [PAWN_nameDef] has lost many skills and have hard time re integrating into a normal life.</baseDesc>
+    <baseDesc>[PAWN_nameDef] was on the losing side of a bitter civil war. [PAWN_pronoun] was trained in the art of combat and the chaos of urban warfare. But once the guns fell silent, [PAWN_pronoun] had to stand trial for [PAWN_possessive] actions. [PAWN_pronoun] was ultimately stripped of [PAWN_possessive] rank and banished from society. With [PAWN_possessive] skills dulled and [PAWN_possessive] reputation tarnished, [PAWN_nameDef] found it a struggle to adjust to life as a civilian once again.</baseDesc>
     <spawnCategories>
       <li>Outlander</li>
       <li>Pirate</li>
@@ -2017,7 +2020,7 @@ As a hobby, [PAWN_nameDef] began collecting helmets stolen from military police.
     <title>Incompetent pilot</title>
     <defName>VBE_IncompetentPilot</defName>
     <titleShort>Incompetent</titleShort>
-    <baseDesc>[PAWN_nameDef] was a helmsman of a large cargo vessel. An unfortunate series of events, some of which were [PAWN_possessive] fault, resulted in the entirety of his crew being vaporized by his ship's fusion engine in a freak accident. Fearing reprisal, he hailed a passing pirate ship and managed to smooth talk [PAWN_possessive] way into safe passage to another world to restart his life, and hopefully forget about his past mistakes.</baseDesc>
+    <baseDesc>[PAWN_nameDef] was a helmsman of a large cargo vessel. An unfortunate series of events, some of which were [PAWN_possessive] fault, resulted in the entirety of [PAWN_possessive] crew being vaporized by the ship's fusion engine in a freak accident. Fearing reprisal, [PAWN_pronoun] hailed a passing pirate ship and managed to smooth talk [PAWN_possessive] way into safe passage to another world to restart [PAWN_possessive] life, and hopefully forget about [PAWN_possessive] past mistakes.</baseDesc>
     <spawnCategories>
       <li>Offworld</li>
     </spawnCategories><bodyTypeMale>Male</bodyTypeMale><bodyTypeFemale>Female</bodyTypeFemale>
@@ -2037,7 +2040,7 @@ As a hobby, [PAWN_nameDef] began collecting helmets stolen from military police.
     <title>Marauder</title>
     <defName>VBE_Marauder</defName>
     <titleShort>Marauder</titleShort>
-    <baseDesc>[PAWN_nameDef] spent most of [PAWN_possessive] life as a fighter in a nomadic fleet of space pirates until it dissolved from infighting. [PAWN_objective] saw many battles, but never even went close to any books.</baseDesc>
+    <baseDesc>[PAWN_nameDef] spent most of [PAWN_possessive] life as a fighter in a nomadic fleet of space pirates until it dissolved from infighting. [PAWN_pronoun] saw many battles, but never even went close to any books.</baseDesc>
     <spawnCategories>
       <li>Pirate</li>
     </spawnCategories><bodyTypeMale>Male</bodyTypeMale><bodyTypeFemale>Female</bodyTypeFemale>
@@ -2080,7 +2083,7 @@ As a hobby, [PAWN_nameDef] began collecting helmets stolen from military police.
     <title>Pond designer</title>
     <defName>VBE_PondDesigner</defName>
     <titleShort>Gardener</titleShort>
-    <baseDesc>[PAWN_nameDef] created extravagant ponds for the wealthy. [PAWN_possessive] knowledge of aquatic flora and fauna and how they interact is unsurpassed. One day, a client introduced a new fish into one of [PAWN_possessive] pond, destroying the delicate ecosystem. That was the last drop for [PAWN_objective], who left everything behind and took the first ship to the Rim, where [PAWN_pronoun] hopes to realize [PAWN_possessive] dream: to design a whole new ecosystem on a planetary scale.</baseDesc>
+    <baseDesc>[PAWN_nameDef] created extravagant ponds for the wealthy. [PAWN_possessive] knowledge of aquatic flora and fauna and how they interact is unsurpassed. One day, a client introduced a new fish into one of [PAWN_possessive] ponds, destroying the delicate ecosystem. That was the last drop for [PAWN_nameDef], who left everything behind and took the first ship to the Rim, where [PAWN_pronoun] hopes to realize [PAWN_possessive] dream: to design a whole new ecosystem on a planetary scale.</baseDesc>
     <spawnCategories>
       <li>Outlander</li>
       <li>Pirate</li>
@@ -2145,7 +2148,7 @@ As a hobby, [PAWN_nameDef] began collecting helmets stolen from military police.
     <title>Chemfuel farmer</title>
     <defName>VBE_ChemfuelFarmer</defName>
     <titleShort>Farmer</titleShort>
-    <baseDesc>[PAWN_nameDef] is an entrepreneur. [PAWN_pronoun] recognized immediately how much money was to be made with chemfuel, a substance so widely used that demand never seems to go down, no matter how much of the stuff you sell. [PAWN_pronoun] first convinced [PAWN_possessive] family to buy a boomalope ranch, then his neighbors to plant chemroot. Soon, the whole town was refining everything they could get their hands on. Since the storm of last summer, [PAWN_pronoun] has been looking for a new town to live in. Anywhere, really: he has no family to tie him down.</baseDesc>
+    <baseDesc>[PAWN_nameDef] is an entrepreneur. [PAWN_pronoun] recognized immediately how much money was to be made with chemfuel, a substance so widely used that demand never seems to go down, no matter how much of the stuff you sell. [PAWN_pronoun] first convinced [PAWN_possessive] family to buy a boomalope ranch, then his neighbors to plant chemroot. Soon, the whole town was refining everything they could get their hands on. Since the storm of last summer, [PAWN_pronoun] has been looking for a new town to live in. Anywhere, really: [PAWN_pronoun] has no family to tie him down.</baseDesc>
     <spawnCategories>
       <li>Outlander</li>
       <li>Pirate</li>
@@ -2183,7 +2186,7 @@ As a hobby, [PAWN_nameDef] began collecting helmets stolen from military police.
     <title>Train driver</title>
     <defName>VBE_TrainDriver</defName>
     <titleShort>Engineer</titleShort>
-    <baseDesc>[PAWN_nameDef] loves trains. [PAWN_pronoun] used to drive a steam-powered locomotive on a small line in an idyllic landscape. [PAWN_pronoun] would greet the sleepy villages along the line each morning with the cheery sound of the horn. [PAWN_possessive] only worry was to shovel enough coal to keep the locomotive running and to repair the train from time to time. One day, he had to stop in a village. An enraged and sleep-deprived mob took the opportunity to destroy the train and [PAWN_nameDef] decided to leave before they remembered who was responsible for sounding the horn.</baseDesc>
+    <baseDesc>[PAWN_nameDef] loves trains. [PAWN_pronoun] used to drive a steam-powered locomotive on a small line in an idyllic landscape. [PAWN_pronoun] would greet the sleepy villages along the line each morning with the cheery sound of the horn. [PAWN_possessive] only worry was to shovel enough coal to keep the locomotive running and to repair the train from time to time. One day, [PAWN_pronoun] had to stop in a village. An enraged and sleep-deprived mob took the opportunity to destroy the train and [PAWN_nameDef] decided to leave before they remembered who was responsible for sounding the horn.</baseDesc>
     <spawnCategories>
       <li>Outlander</li>
       <li>Offworld</li>
@@ -2227,10 +2230,11 @@ When the heir turned out to be alive after all, [PAWN_nameDef] was discarded to 
   </BackstoryDef>
   <BackstoryDef>
     <slot>Childhood</slot>
-    <title>Medicine prodigy</title>
+    <title>Medical prodigy</title>
+    <!-- The original defName was kept for compatibility. -->
     <defName>VBE_MedicineProdigy</defName>
     <titleShort>Prodigy</titleShort>
-    <baseDesc>Born on an overpopulated urbworld, [PAWN_nameDef] displayed a remarkable aptitude for medicine from an early age. Plucked from the education system and inducted into a special program for the intellectually gifted, [PAWN_pronoun] received the best education money could buy, but little time to develop socially or engage in risky behaviour.
+    <baseDesc>Born on an overpopulated urbworld, [PAWN_nameDef] displayed a remarkable aptitude for medicine from an early age. Plucked from the education system and inducted into a special program for the intellectually gifted, [PAWN_pronoun] received the best education money could buy, but little time to develop socially or engage in risky behavior.
 
 To [PAWN_possessive] benefactors, [PAWN_pronoun] was an expensive investment.</baseDesc>
     <spawnCategories>
@@ -2382,7 +2386,7 @@ To [PAWN_possessive] benefactors, [PAWN_pronoun] was an expensive investment.</b
     <title>Starving artist</title>
     <defName>VBE_StarvingArtist</defName>
     <titleShort>Artist</titleShort>
-    <baseDesc>[PAWN_nameDef] was an relatively well-off art student in an urban world. A financial collapse forced [PAWN_objective] onto the streets, selling paintings for a living. [PAWN_pronoun] didn’t make much, and what surplus [PAWN_pronoun] had went into more materials and food for some friendly and loyal stray dogs.</baseDesc>
+    <baseDesc>[PAWN_nameDef] was an relatively well-off art student in an urban world. A financial collapse forced [PAWN_objective] onto the streets, selling paintings for a living. [PAWN_pronoun] didn't make much, and what surplus [PAWN_pronoun] had went into more materials and food for some friendly and loyal stray dogs.</baseDesc>
     <spawnCategories>
       <li>Outlander</li>
     </spawnCategories><bodyTypeMale>Male</bodyTypeMale><bodyTypeFemale>Female</bodyTypeFemale>
@@ -2448,7 +2452,7 @@ To [PAWN_possessive] benefactors, [PAWN_pronoun] was an expensive investment.</b
     <title>Hostess in training</title>
     <defName>VBE_HostessInTraining</defName>
     <titleShort>Hostess</titleShort>
-    <baseDesc>[PAWN_nameDef] spent plenty of time in their parent's restaurant growing up, eventually getting a job seating patrons. While they weren't a cook by trade, they still picked up a lot of the tastes and preferences of the clientele, along with plenty of gossip. This ended poorly one day after an altercation with an ex-lover, and they've been drifting since.</baseDesc>
+    <baseDesc>[PAWN_nameDef] spent plenty of time in [PAWN_possessive] parent's restaurant growing up, eventually getting a job seating patrons. While [PAWN_pronoun] wasn't a cook by trade, [PAWN_pronoun] still picked up a lot of the tastes and preferences of the clientele, along with plenty of gossip. This ended poorly one day after an altercation with an ex-lover, and they've been drifting since.</baseDesc>
     <spawnCategories>
       <li>Outlander</li>
       <li>Pirate</li>
@@ -2494,7 +2498,7 @@ To [PAWN_possessive] benefactors, [PAWN_pronoun] was an expensive investment.</b
     <title>Olive farmer</title>
     <defName>VBE_OliveFarmer</defName>
     <titleShort>Farmer</titleShort>
-    <baseDesc>[PAWN_nameDef] was the lucky owner of an olive tree plantation. [PAWN_pronoun] would spend hours tending the saplings, always telling [PAWN_possessive] family when they would laugh about it: never give up your last sapling, whatever happens, you can always start over. One day, [PAWN_pronoun] was found in a refugee group, staring blankly at his last possessions: a bloody picture and a small sapling. When it was time to go, [PAWN_pronoun] left the small olive tree behind.</baseDesc>
+    <baseDesc>[PAWN_nameDef] was the lucky owner of an olive tree plantation. [PAWN_pronoun] would spend hours tending the saplings, always telling [PAWN_possessive] family when they would laugh about it: never give up your last sapling, whatever happens, you can always start over. One day, [PAWN_pronoun] was found in a refugee group, staring blankly at [PAWN_possessive] last possessions: a bloody picture and a small sapling. When it was time to go, [PAWN_pronoun] left the small olive tree behind.</baseDesc>
     <spawnCategories>
       <li>Outlander</li>
       <li>Offworld</li>
@@ -2538,7 +2542,7 @@ To [PAWN_possessive] benefactors, [PAWN_pronoun] was an expensive investment.</b
     <title>Child of the anima tree</title>
     <defName>VBE_ChildofTheAnimaTree</defName>
     <titleShort>Psychic</titleShort>
-    <baseDesc>[PAWN_nameDef] was born and raised within very close proximity to an Anima tree. [PAWN_possessive] village taught [PAWN_objective] the great importance of this tree and how to take good care of it. As a result of spending so much time with the tree, [PAWN_objective] has a very developed connection to the psychic energies of this world.</baseDesc>
+    <baseDesc>[PAWN_nameDef] was born and raised in close proximity to an Anima tree. [PAWN_possessive] village taught [PAWN_objective] about the tree's importance and how to take good care of it. As a result of spending so much time with the tree, [PAWN_pronoun] developed a profound connection to the psychic energies of this world.</baseDesc>
     <spawnCategories>
       <li>Tribal</li>
     </spawnCategories><bodyTypeMale>Male</bodyTypeMale><bodyTypeFemale>Female</bodyTypeFemale>
@@ -2561,7 +2565,7 @@ To [PAWN_possessive] benefactors, [PAWN_pronoun] was an expensive investment.</b
     <title>Animatronic mechanic</title>
     <defName>VBE_AnimatronicMechanic</defName>
     <titleShort>Mechanic</titleShort>
-    <baseDesc>[PAWN_nameDef] use to be a mechanic who specialized in the construction of animatronics.  [PAWN_possessive] creations were often used in movie production, restaurants, theme parks and theater productions.</baseDesc>
+    <baseDesc>[PAWN_nameDef] was a mechanic who specialized in the construction of animatronics. [PAWN_possessive] creations were often used in movie production, restaurants, theme parks and theater productions.</baseDesc>
     <spawnCategories>
       <li>Outlander</li>
       <li>Offworld</li>
@@ -2583,7 +2587,7 @@ To [PAWN_possessive] benefactors, [PAWN_pronoun] was an expensive investment.</b
     <title>Sim-raised</title>
     <defName>VBE_Simraised</defName>
     <titleShort>Sheltered</titleShort>
-    <baseDesc>[PAWN_nameDef] grew up in a simulated environment composed of augmented reality and virtual reality elements inside a robot-tended, environmentally sealed dome. While safe and idyllic, this placid lifestyle left [PAWN_possessive] wanting something more in life.</baseDesc>
+    <baseDesc>[PAWN_nameDef] grew up in a simulated environment composed of augmented reality and virtual reality elements inside a robot-tended, environmentally sealed dome. While safe and idyllic, this placid lifestyle left [PAWN_objective] wanting something more in life.</baseDesc>
     <spawnCategories>
       <li>Outlander</li>
       <li>Offworld</li>
@@ -2605,9 +2609,7 @@ To [PAWN_possessive] benefactors, [PAWN_pronoun] was an expensive investment.</b
     <title>Blacksmith apprentice</title>
     <defName>VBE_BlacksmithApprentice</defName>
     <titleShort>Apprentice</titleShort>
-    <baseDesc>[PAWN_nameDef] worked under a respected blacksmith as a young apprentice. [PAWN_objective] daily duties included tending the forge, hauling supplies, and sometimes  making smaller and simpler tools.
-
-[PAWN_objective] favourite thing to make was small daggers and wooden weapons for [PAWN_objective] fellow children, which made [PAWN_possessive] quite popular.</baseDesc>
+    <baseDesc>[PAWN_nameDef] worked under a respected blacksmith as a young apprentice. [PAWN_possessive] daily duties included tending the forge, hauling supplies, and sometimes making smaller and simpler tools.\n\n[PAWN_possessive] favorite thing to make was small daggers and wooden weapons for [PAWN_possessive] fellow children, which made [PAWN_objective] quite popular.</baseDesc>
     <spawnCategories>
       <li>MedievalCommon</li>
     </spawnCategories><bodyTypeMale>Male</bodyTypeMale><bodyTypeFemale>Female</bodyTypeFemale>
@@ -2733,7 +2735,7 @@ To [PAWN_possessive] benefactors, [PAWN_pronoun] was an expensive investment.</b
     <title>Strange child</title>
     <defName>VBE_StrangeChild</defName>
     <titleShort>Psychopath</titleShort>
-    <baseDesc>[PAWN_nameDef] enjoyed torturing small animals, and as they got older, other people. This gave them a unique understanding of the body, but stunted their social skills considerably.</baseDesc>
+    <baseDesc>[PAWN_nameDef] enjoyed torturing small animals, and as [PAWN_pronoun] got older, other people. This gave them a unique understanding of the body, but stunted [PAWN_possessive] social skills considerably.</baseDesc>
     <spawnCategories>
       <li>Tribal</li>
       <li>Outlander</li>
@@ -2784,7 +2786,7 @@ To [PAWN_possessive] benefactors, [PAWN_pronoun] was an expensive investment.</b
     <title>Pod child</title>
     <defName>VBE_PodChild</defName>
     <titleShort>Escapee</titleShort>
-    <baseDesc>[PAWN_nameDef]'s home planet was rapidly escalating to nuclear war right after [PAWN_pronoun] was born. [PAWN_nameDef] loaded [PAWN_objective] into a cryptosleep shuttle, and launched [PAWN_objective] to relative safety. After cruising for decades in deep sleep [PAWN_pronoun] was found by an outlander community. [PAWN_nameDef] tries to keep up-beat about life due to the sheer luck that was in play for [PAWN_possessive] survival. </baseDesc>
+    <baseDesc>[PAWN_nameDef]'s home planet was rapidly escalating to nuclear war right after [PAWN_pronoun] was born. [PAWN_pronoun] was forced to go into cryptosleep and escaped to relative safety. After cruising for decades in deep sleep, [PAWN_pronoun] was found by an outlander community. [PAWN_nameDef] tries to keep up-beat about life due to the sheer luck that was in play for [PAWN_possessive] survival.</baseDesc>
     <spawnCategories>
       <li>Outlander</li>
       <li>Offworld</li>
@@ -2824,7 +2826,7 @@ To [PAWN_possessive] benefactors, [PAWN_pronoun] was an expensive investment.</b
     <title>Forsaken patriot</title>
     <defName>VBE_ForsakenPatriot</defName>
     <titleShort>Patriot</titleShort>
-    <baseDesc>[PAWN_nameDef] served [PAWN_possessive] faction with dedication and conviction as a black operative. One particular operation went foul and [PAWN_pronoun] death was arranged to ease political tensions. However, [PAWN_possessive] loyalty was rewarded with a fake execution and exiled, on the condition [PAWN_pronoun] never return lest [PAWN_pronoun] jeopardise [PAWN_possessive] faction’s machinations.</baseDesc>
+    <baseDesc>[PAWN_nameDef] served [PAWN_possessive] faction with dedication and conviction as a black operative. One particular operation went foul and [PAWN_possessive] death was arranged to ease political tensions. However, [PAWN_possessive] loyalty was rewarded with a fake execution and exiled, on the condition [PAWN_pronoun] never return lest [PAWN_pronoun] jeopardize [PAWN_possessive] faction's machinations.</baseDesc>
     <spawnCategories>
       <li>Outlander</li>
       <li>Offworld</li>
@@ -2867,7 +2869,7 @@ To [PAWN_possessive] benefactors, [PAWN_pronoun] was an expensive investment.</b
     <title>Deposed royalty</title>
     <defName>VBE_DeposedRoyalty</defName>
     <titleShort>Royalty</titleShort>
-    <baseDesc>[PAWN_nameDef] founded a region-spanning territory through bloody conflict, refusing to give up [PAWN_possessive] and [PAWN_possessive] people’s right to live without oppression for their gender and beliefs. Eventually, multiple factions joined together to wage war against [PAWN_possessive] nation, culminating in [PAWN_possessive] bodyguards forcing [PAWN_possessive] to flee. While [PAWN_pronoun] did everything [PAWN_pronoun] could to carve a future for [PAWN_possessive] people, [PAWN_possessive] failure to protect them has been [PAWN_possessive] greatest shame.</baseDesc>
+    <baseDesc>[PAWN_nameDef] founded a region-spanning territory through bloody conflict, refusing to give up [PAWN_possessive] and [PAWN_possessive] people's right to live without oppression for their gender and beliefs. Eventually, multiple factions joined together to wage war against [PAWN_possessive] nation, culminating in [PAWN_possessive] bodyguards forcing [PAWN_objective] to flee. While [PAWN_pronoun] did everything [PAWN_pronoun] could to carve a future for [PAWN_possessive] people, [PAWN_possessive] failure to protect them has been [PAWN_possessive] greatest shame.</baseDesc>
     <spawnCategories>
       <li>Offworld</li>
       <li>Outsider</li>
@@ -2890,7 +2892,7 @@ To [PAWN_possessive] benefactors, [PAWN_pronoun] was an expensive investment.</b
     <title>Bioweapon</title>
     <defName>VBE_Bioweapon</defName>
     <titleShort>Bioweapon</titleShort>
-    <baseDesc>[PAWN_nameDef] was created in a lab in an attempt to splice genomes in the search for a better soldier. The experiment was deemed a failure and [PAWN_pronoun] was put down for disposal. The methods used were sloppy and [PAWN_pronoun] survived the ordeal, later managing to find [PAWN_possessive] former masters and destroyed the facility.</baseDesc>
+    <baseDesc>[PAWN_nameDef] was created in a lab in an attempt to splice genomes in the search for a better soldier. The experiment was deemed a failure and [PAWN_pronoun] was put down for disposal. The methods used were sloppy and [PAWN_pronoun] survived the ordeal. [PAWN_pronoun] later managed to find [PAWN_possessive] former masters and destroyed the facility.</baseDesc>
     <spawnCategories>
       <li>Outlander</li>
       <li>Pirate</li>
@@ -2920,7 +2922,7 @@ To [PAWN_possessive] benefactors, [PAWN_pronoun] was an expensive investment.</b
     <title>Catastrophe</title>
     <defName>VBE_Catastrophe</defName>
     <titleShort>Catastrophe</titleShort>
-    <baseDesc>Misfortune has followed [PAWN_nameDef] wherever [PAWN_pronoun] has stayed for an extended period. Natural disasters, raids, infestations, bombardments, slavers are just some of the events those who associate with [PAWN_pronoun] have had to live through. However, through the death and devastation, [PAWN_pronoun] has managed to pull through by the skin of [PAWN_possessive] teeth.</baseDesc>
+    <baseDesc>Misfortune has followed [PAWN_nameDef] wherever [PAWN_pronoun] has stayed for an extended period. Natural disasters, raids, infestations, bombardments, slavers are just some of the events those who associate with [PAWN_objective] have had to live through. However, through the death and devastation, [PAWN_pronoun] has managed to pull through by the skin of [PAWN_possessive] teeth.</baseDesc>
     <spawnCategories>
       <li>Outlander</li>
       <li>Pirate</li>
@@ -2950,7 +2952,7 @@ To [PAWN_possessive] benefactors, [PAWN_pronoun] was an expensive investment.</b
     <title>Nature lover</title>
     <defName>VBE_NatureLover</defName>
     <titleShort>Naturist</titleShort>
-    <baseDesc>[PAWN_nameDef] has an inherent disdain for being told what [PAWN_pronoun] can and cannot do, and when [PAWN_pronoun] was a child [PAWN_pronoun] was told that [PAWN_pronoun] couldn’t just adopt a random rabbit. With almost righteous indignation, [PAWN_pronoun] took care of [PAWN_possessive] pet rabbit better than [PAWN_possessive] own well-being.</baseDesc>
+    <baseDesc>[PAWN_nameDef] has an inherent disdain for being told what [PAWN_pronoun] can and cannot do, and when [PAWN_pronoun] was a child [PAWN_pronoun] was told that [PAWN_pronoun] couldn't just adopt a random rabbit. With almost righteous indignation, [PAWN_pronoun] took care of [PAWN_possessive] pet rabbit better than [PAWN_possessive] own well-being.</baseDesc>
     <spawnCategories>
       <li>Outlander</li>
       <li>Pirate</li>
@@ -3007,7 +3009,7 @@ To [PAWN_possessive] benefactors, [PAWN_pronoun] was an expensive investment.</b
     <title>Enlisted teen</title>
     <defName>VBE_EnlistedTeen</defName>
     <titleShort>Enlisted</titleShort>
-    <baseDesc>[PAWN_nameDef] enlisted at a young age with the military by using forged documents, eager to go out into the world and make a difference. That didn’t last long, since [PAWN_pronoun] quickly learned that [PAWN_possessive] new comrades were the ones dying and those who instigated conflicts only made greater profits from idealists such as [PAWN_objective]self.</baseDesc>
+    <baseDesc>[PAWN_nameDef] enlisted at a young age with the military by using forged documents, eager to go out into the world and make a difference. That didn't last long, since [PAWN_pronoun] quickly learned that [PAWN_possessive] new comrades were the ones dying and those who instigated conflicts only made greater profits from idealists such as [PAWN_objective]self.</baseDesc>
     <spawnCategories>
       <li>Pirate</li>
       <li>Offworld</li>
@@ -3105,7 +3107,7 @@ To [PAWN_possessive] benefactors, [PAWN_pronoun] was an expensive investment.</b
     <title>Literary critic</title>
     <defName>VBE_LiteraryCritic</defName>
     <titleShort>Critic</titleShort>
-    <baseDesc>[PAWN_nameDef] partook in formal education in Literature, obtaining the highest score in [PAWN_objective] class and even in the history of that department’s founding. As such, [PAWN_pronoun] takes almost sadistic pleasure in critiquing people’s work, especially if they are otherwise considered their magnum opus. Many bestselling authors have been reduced to tears by [PAWN_objective] harsh judgement, which often results in their life’s work becoming publicly despised.</baseDesc>
+    <baseDesc>[PAWN_nameDef] partook in formal education in Literature, obtaining the highest score in [PAWN_possessive] class and even in the history of that department's founding. As such, [PAWN_pronoun] takes almost sadistic pleasure in critiquing people's work, especially if they are otherwise considered their magnum opus. Many bestselling authors have been reduced to tears by [PAWN_possessive] harsh judgment, which often results in their life's work becoming publicly despised.</baseDesc>
     <spawnCategories>
       <li>Offworld</li>
       <li>Outsider</li>
@@ -3134,7 +3136,7 @@ To [PAWN_possessive] benefactors, [PAWN_pronoun] was an expensive investment.</b
     <title>Rodent rancher</title>
     <defName>VBE_RodentRancher</defName>
     <titleShort>Rancher</titleShort>
-    <baseDesc>[PAWN_nameDef] spent a lot of [PAWN_objective] time working on a rodent farm in an overpopulated city on one of the urbworlds. Due to limited spacing and mostly processed foods, [PAWN_pronoun] found great success in offering actual meat for those who wanted a break from mediocrity. Granted [PAWN_pronoun] ended up on the run because [PAWN_possessive] Ratburgers attracted the taxman, but [PAWN_pronoun] found it fun while it lasted.</baseDesc>
+    <baseDesc>[PAWN_nameDef] spent a lot of [PAWN_possessive] time working on a rodent farm in an overpopulated city on one of the urbworlds. Due to limited spacing and mostly processed foods, [PAWN_pronoun] found great success in offering actual meat for those who wanted a break from mediocrity. Granted, [PAWN_pronoun] ended up on the run because [PAWN_possessive] Ratburgers attracted the taxman, but [PAWN_pronoun] found it fun while it lasted.</baseDesc>
     <spawnCategories>
       <li>Offworld</li>
       <li>Outsider</li>
@@ -3160,7 +3162,7 @@ To [PAWN_possessive] benefactors, [PAWN_pronoun] was an expensive investment.</b
     <title>Pathological liar</title>
     <defName>VBE_PathologicalLiar</defName>
     <titleShort>Liar</titleShort>
-    <baseDesc>[PAWN_nameDef] loves to make stuff up and just can’t help [PAWN_objective]self. Particularly, [PAWN_pronoun] enjoys going to any place that serves alcohol and tells the biggest, boldest stories full of twists, turns and drama while being bought round after round. However, once [PAWN_pronoun] gets bored or has decided that [PAWN_pronoun] has drunk enough, almost every story ends on a completely random note with everyone dying in horrific fashion.</baseDesc>
+    <baseDesc>[PAWN_nameDef] loves to make stuff up and just can't help [PAWN_objective]self. Particularly, [PAWN_pronoun] enjoys going to any place that serves alcohol and tells the biggest, boldest stories full of twists, turns and drama while being bought round after round. However, once [PAWN_pronoun] gets bored or has decided that [PAWN_pronoun] has drunk enough, almost every story ends on a completely random note with everyone dying in horrific fashion.</baseDesc>
     <spawnCategories>
       <li>Tribal</li>
       <li>Outlander</li>
@@ -3188,7 +3190,7 @@ To [PAWN_possessive] benefactors, [PAWN_pronoun] was an expensive investment.</b
     <title>Blackguard</title>
     <defName>VBE_Blackguard</defName>
     <titleShort>Blackguard</titleShort>
-    <baseDesc>[PAWN_nameDef] never really managed well wherever [PAWN_pronoun] went as a general air of misfortune seemingly hovers over [PAWN_possessive] head. As most people are extremely superstitious, every town [PAWN_pronoun] has visited has chased [PAWN_objective] away as disaster always seems to follow while [PAWN_pronoun] survives. So [PAWN_pronoun] got really good at fending for [PAWN_objective]self.</baseDesc>
+    <baseDesc>[PAWN_nameDef] carries with [PAWN_objective] a cloud of misfortune, causing [PAWN_objective] to be chased out of every town [PAWN_pronoun]'s lived in due to people's superstitions. Despite being followed by disaster at every turn, [PAWN_pronoun] has learned to fend for [PAWN_pronoun]self and become self-sufficient.</baseDesc>
     <spawnCategories>
       <li>MedievalCommon</li>
     </spawnCategories><bodyTypeMale>Male</bodyTypeMale><bodyTypeFemale>Female</bodyTypeFemale>
@@ -3215,7 +3217,7 @@ To [PAWN_possessive] benefactors, [PAWN_pronoun] was an expensive investment.</b
     <title>Bounty hunter</title>
     <defName>VBE_BountyHunter</defName>
     <titleShort>Hunter</titleShort>
-    <baseDesc>[PAWN_nameDef] takes a lot of pride in [PAWN_possessive] to find, capture and deliver individuals who have pissed off the wrong people, primarily if it involves a large cash influx in [PAWN_possessive] direction. It might not be the most glamorous job but it pays for a decent lifestyle and that’s all [PAWN_pronoun] has ever really wanted in life. Plus [PAWN_pronoun] gets to shoot people in the face, which can be surprisingly therapeutic.</baseDesc>
+    <baseDesc>[PAWN_nameDef] takes a lot of pride in [PAWN_possessive] to find, capture and deliver individuals who have pissed off the wrong people, primarily if it involves a large cash influx in [PAWN_possessive] direction. It might not be the most glamorous job but it pays for a decent lifestyle and that's all [PAWN_pronoun] has ever really wanted in life. Plus [PAWN_pronoun] gets to shoot people in the face, which can be surprisingly therapeutic.</baseDesc>
     <spawnCategories>
       <li>Outlander</li>
       <li>Pirate</li>
@@ -3244,7 +3246,7 @@ To [PAWN_possessive] benefactors, [PAWN_pronoun] was an expensive investment.</b
     <title>Thane</title>
     <defName>VBE_Thane</defName>
     <titleShort>Thane</titleShort>
-    <baseDesc>[PAWN_nameDef] was elevated to a position of thane in [PAWN_possessive] jarl’s holding, giving [PAWN_possessive] a large degree of freedom to do as [PAWN_pronoun] pleased as long as it advanced their interests. So far [PAWN_pronoun] has enjoyed an easier life with a few servants while taking up an interest in raising beasts of war and training elite soldiers.</baseDesc>
+    <baseDesc>[PAWN_nameDef] was elevated to a position of thane in [PAWN_possessive] jarl's holding, giving [PAWN_possessive] a large degree of freedom to do as [PAWN_pronoun] pleased as long as it advanced their interests. So far [PAWN_pronoun] has enjoyed an easier life with a few servants while taking up an interest in raising beasts of war and training elite soldiers.</baseDesc>
     <spawnCategories>
       <li>Tribal</li>
       <li>MedievalCommon</li>
@@ -3275,7 +3277,7 @@ To [PAWN_possessive] benefactors, [PAWN_pronoun] was an expensive investment.</b
     <title>Trainee combat medic</title>
     <defName>VBE_TraineeCombatMedic</defName>
     <titleShort>Paramedic</titleShort>
-    <baseDesc>[PAWN_nameDef] has received extensive military training to act as the lynchpin for [PAWN_possessive] squad. This includes but is not limited to recovering and treating wounded soldiers or people of interest, as well as acting as second-in-command. While this doesn’t detract from the results, [PAWN_pronoun] has an extremely dry, no-nonsense personality and can be difficult to get along with.</baseDesc>
+    <baseDesc>[PAWN_nameDef] has received extensive military training to act as the lynchpin for [PAWN_possessive] squad. This includes but is not limited to recovering and treating wounded soldiers or people of interest, as well as acting as second-in-command. While this doesn't detract from the results, [PAWN_pronoun] has an extremely dry, no-nonsense personality and can be difficult to get along with.</baseDesc>
     <spawnCategories>
       <li>Pirate</li>
       <li>Offworld</li>
@@ -3347,7 +3349,7 @@ To [PAWN_possessive] benefactors, [PAWN_pronoun] was an expensive investment.</b
     <title>Privateer captain</title>
     <defName>VBE_PrivateerCaptain</defName>
     <titleShort>Captain</titleShort>
-    <baseDesc>[PAWN_nameDef] has never really turned away from hard work, especially if that results in reaping greater rewards from other people’s labours as well. Thus the pirate life has always called to [PAWN_objective] because if anyone’s going to be earning money from the - sometimes literal - sweat from [PAWN_possessive] back, it’s going to be [PAWN_objective], damn it. Why work for the Man when you can work for yourself.</baseDesc>
+    <baseDesc>[PAWN_nameDef] has never really turned away from hard work, especially if that results in reaping greater rewards from other people's labours as well. Thus the pirate life has always called to [PAWN_objective] because if anyone's going to be earning money from the - sometimes literal - sweat from [PAWN_possessive] back, it's going to be [PAWN_objective], damn it. Why work for the Man when you can work for yourself.</baseDesc>
     <spawnCategories>
       <li>Pirate</li>
     </spawnCategories><bodyTypeMale>Male</bodyTypeMale><bodyTypeFemale>Female</bodyTypeFemale>
@@ -3373,7 +3375,7 @@ To [PAWN_possessive] benefactors, [PAWN_pronoun] was an expensive investment.</b
     <title>Centurion's deputy</title>
     <defName>VBE_CenturionsDeputy</defName>
     <titleShort>Optio</titleShort>
-    <baseDesc>[PAWN_nameDef] served in [PAWN_possessive] government’s military with distinction, eventually rewarded with the rank of optio and would succeed in becoming a centurion once [PAWN_possessive] superior was promoted. In general, [PAWN_pronoun] was quite simple with these new responsibilities as the centurion ran a tight crew and rarely had to deal with insubordination, which resulted in [PAWN_nameDef] missing out on some key disciplinarian training.</baseDesc>
+    <baseDesc>[PAWN_nameDef] served in [PAWN_possessive] government's military with distinction, eventually rewarded with the rank of optio and would succeed in becoming a centurion once [PAWN_possessive] superior was promoted. In general, [PAWN_pronoun] was quite simple with these new responsibilities as the centurion ran a tight crew and rarely had to deal with insubordination, which resulted in [PAWN_nameDef] missing out on some key disciplinarian training.</baseDesc>
     <spawnCategories>
       <li>Tribal</li>
       <li>MedievalCommon</li>
@@ -3400,7 +3402,7 @@ To [PAWN_possessive] benefactors, [PAWN_pronoun] was an expensive investment.</b
     <title>Android hunter</title>
     <defName>VBE_AndroidHunter</defName>
     <titleShort>Hunter</titleShort>
-    <baseDesc>[PAWN_nameDef] has made quite a handsome living off of hunting the incognito androids, as well as catering to the ultra elite’s more exotic and eclectic tastes in blood sports. Completely supported by the enormous wealth, [PAWN_pronoun] is incredibly proficient at hunting and tracking dangerous prey.</baseDesc>
+    <baseDesc>[PAWN_nameDef] has made quite a handsome living off of hunting the incognito androids, as well as catering to the ultra elite's more exotic and eclectic tastes in blood sports. Completely supported by the enormous wealth, [PAWN_pronoun] is incredibly proficient at hunting and tracking dangerous prey.</baseDesc>
     <spawnCategories>
       <li>Offworld</li>
       <li>Outsider</li>
@@ -3431,7 +3433,7 @@ To [PAWN_possessive] benefactors, [PAWN_pronoun] was an expensive investment.</b
     <title>Lifelong personal assistant</title>
     <defName>VBE_LifelongPersonalAssistant</defName>
     <titleShort>Assistant</titleShort>
-    <baseDesc>[PAWN_nameDef] was formerly employed under a rather demanding clientele who demanded absolute and unwavering commitment. While [PAWN_pronoun] was incapable of disobeying, nevertheless [PAWN_pronoun] resented [PAWN_possessive] situation and indirectly caused [PAWN_possessive] master’s fall from grace. Rather than face [PAWN_possessive] fate in being “decommissioned”, [PAWN_pronoun] used any and all methods available to smuggle [PAWN_objective]self off-station.</baseDesc>
+    <baseDesc>[PAWN_nameDef] was formerly employed under a rather demanding clientele who demanded absolute and unwavering commitment. While [PAWN_pronoun] was incapable of disobeying, nevertheless [PAWN_pronoun] resented [PAWN_possessive] situation and indirectly caused [PAWN_possessive] master's fall from grace. Rather than face [PAWN_possessive] fate in being “decommissioned”, [PAWN_pronoun] used any and all methods available to smuggle [PAWN_objective]self off-station.</baseDesc>
     <spawnCategories>
       <li>Offworld</li>
       <li>Outsider</li>
@@ -3489,7 +3491,7 @@ To [PAWN_possessive] benefactors, [PAWN_pronoun] was an expensive investment.</b
     <title>Noir detective</title>
     <defName>VBE_NoirDetective</defName>
     <titleShort>Detective</titleShort>
-    <baseDesc>[PAWN_nameDef] fills a very particular niche in law enforcement while not being under the direct influence of any police. Even though [PAWN_pronoun] has an office with its own neon sign out front and a secretary that is constantly trying to get a hold of [PAWN_objective], [PAWN_pronoun] is rarely in as [PAWN_possessive] investigations take [PAWN_objective] all over the place. And since [PAWN_pronoun] has a habit of sticking [PAWN_possessive] nose where others don’t want it, trouble has a much easier time finding [PAWN_objective].</baseDesc>
+    <baseDesc>[PAWN_nameDef] fills a very particular niche in law enforcement while not being under the direct influence of any police. Even though [PAWN_pronoun] has an office with its own neon sign out front and a secretary that is constantly trying to get a hold of [PAWN_objective], [PAWN_pronoun] is rarely in as [PAWN_possessive] investigations take [PAWN_objective] all over the place. And since [PAWN_pronoun] has a habit of sticking [PAWN_possessive] nose where others don't want it, trouble has a much easier time finding [PAWN_objective].</baseDesc>
     <spawnCategories>
       <li>Offworld</li>
       <li>Outsider</li>
@@ -3515,7 +3517,7 @@ To [PAWN_possessive] benefactors, [PAWN_pronoun] was an expensive investment.</b
     <title>Cosplay enthusiast</title>
     <defName>VBE_CosplayEnthusiast</defName>
     <titleShort>Cosplayer</titleShort>
-    <baseDesc>[PAWN_pronoun] has a particular joy in cosplaying. While that may sound simple enough, a lot of research goes into getting it just right. One can’t just throw anything together, but instead one has to carefully research the material and era- and culture-appropriate pieces that the outfit could be worn in. Particular care is taken into appropriate food, drink and mannerisms. At least, that’s what [PAWN_pronoun] says and it’s hard to argue with results, although that doesn’t stop some people from trying to kill [PAWN_objective] for making other enthusiasts look bad.</baseDesc>
+    <baseDesc>[PAWN_nameDef] has a particular joy in cosplaying. While that may sound simple enough, a lot of research goes into getting it just right. One can't just throw anything together, but instead one has to carefully research the material and era- and culture-appropriate pieces that the outfit could be worn in. Particular care is taken into appropriate food, drink and mannerisms. At least, that's what [PAWN_pronoun] says and it's hard to argue with results, although that doesn't stop some people from trying to kill [PAWN_objective] for making other enthusiasts look bad.</baseDesc>
     <spawnCategories>
       <li>Outlander</li>
       <li>Offworld</li>
@@ -3545,7 +3547,7 @@ To [PAWN_possessive] benefactors, [PAWN_pronoun] was an expensive investment.</b
     <title>Military surplus supplier</title>
     <defName>VBE_MilitarySurplusSupplier</defName>
     <titleShort>Supplier</titleShort>
-    <baseDesc>[PAWN_nameDef] is a firm believer in the right to bear arms and the right to arm bears. As such, [PAWN_pronoun] has an established reputation as one of the most prolific exporters in military surplus hardware. Many complain that [PAWN_pronoun] is perpetuating the ever-increasing scale of conflict between pirates and government military. However [PAWN_possessive] counter-argument is that it’s simply good business practice and the military should properly dispose of their own ordinance instead of relying on people like [PAWN_objective].</baseDesc>
+    <baseDesc>[PAWN_nameDef] is a firm believer in the right to bear arms and the right to arm bears. As such, [PAWN_pronoun] has an established reputation as one of the most prolific exporters in military surplus hardware. Many complain that [PAWN_pronoun] is perpetuating the ever-increasing scale of conflict between pirates and government military. However, [PAWN_possessive] counter-argument is that it's simply good business practice and the military should properly dispose of their own ordinance instead of relying on people like [PAWN_objective].</baseDesc>
     <spawnCategories>
       <li>Pirate</li>
       <li>Offworld</li>
