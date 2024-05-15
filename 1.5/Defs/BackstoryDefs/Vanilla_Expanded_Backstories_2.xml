@@ -25,7 +25,7 @@
     <title>Retired soldier</title>
     <defName>VBE_RetiredSoldier</defName>
     <titleShort>Soldier</titleShort>
-    <baseDesc>After years of military service, [PAWN_nameDef] retired to the colony seeking peace. Despite [PAWN_possessive] efforts to integrate, [PAWN_pronoun] struggled with non-violent tasks, finding solace only in routine and physical labor. [PAWN_pronounCap]'s experience made [PAWN_pronoun] a valuable asset during conflicts, but [PAWN_pronoun] never quite adapted to civilian life.</baseDesc>
+    <baseDesc>After years of military service, [PAWN_nameDef] retired to the colony seeking peace. Despite [PAWN_possessive] efforts to integrate, [PAWN_pronoun] struggled with non-violent tasks, finding solace only in routine and physical labor. [PAWN_possessive] experience made [PAWN_objective] a valuable asset during conflicts, but [PAWN_pronoun] never quite adapted to civilian life.</baseDesc>
     <spawnCategories>
       <li>ImperialFighter</li>
       <li>Outlander</li>
@@ -65,7 +65,7 @@
     <title>Garden curator</title>
     <defName>VBE_GardenCurator</defName>
     <titleShort>Curator</titleShort>
-    <baseDesc>[PAWN_nameDef] oversaw a large botanical garden, specializing in the cultivation of rare plants and educating the public. [PAWN_pronounCap]'s green thumb was unparalleled, yet [PAWN_pronoun] lacked the physical capabilities for demanding labor or combat.</baseDesc>
+    <baseDesc>[PAWN_nameDef] oversaw a large botanical garden, specializing in the cultivation of rare plants and educating the public. [PAWN_possessive] green thumb was unparalleled, yet [PAWN_pronoun] lacked the physical capabilities for demanding labor or combat.</baseDesc>
     <spawnCategories>
       <li>MedievalCommon</li>
       <li>ImperialCommon</li>
@@ -105,7 +105,7 @@
     <title>Ship's navigator</title>
     <defName>VBE_ShipsNavigator</defName>
     <titleShort>Navigator</titleShort>
-    <baseDesc>[PAWN_nameDef] charted the stars as the primary navigator aboard a spacefaring vessel. [PAWN_pronounCap] had an uncanny ability to find the safest and quickest routes through the cosmos, though [PAWN_pronoun] struggled with mechanical tasks and often left those to others.</baseDesc>
+    <baseDesc>[PAWN_nameDef] charted the stars as the primary navigator aboard a spacefaring vessel. [PAWN_pronoun] had an uncanny ability to find the safest and quickest routes through the cosmos, though [PAWN_pronoun] struggled with mechanical tasks and often left those to others.</baseDesc>
     <spawnCategories>
       <li>Offworld</li>
       <li>ImperialRoyal</li>
@@ -145,7 +145,7 @@
     <title>Galactic medic</title>
     <defName>VBE_GalacticMedic</defName>
     <titleShort>Medic</titleShort>
-    <baseDesc>[PAWN_nameDef] served as the medic on a spaceship, treating everything from space sickness to injuries from asteroid impacts. [PAWN_pronounCap]'s knowledge of medicine was unparalleled, but [PAWN_pronoun] had no head for research or complex theories.</baseDesc>
+    <baseDesc>[PAWN_nameDef] served as the medic on a spaceship, treating everything from space sickness to injuries from asteroid impacts. [PAWN_possessive] knowledge of medicine was unparalleled, but [PAWN_pronoun] had no head for research or complex theories.</baseDesc>
     <spawnCategories>
       <li>Offworld</li>
       <li>ImperialCommon</li>
@@ -163,7 +163,7 @@
     <title>Cargo handler</title>
     <defName>VBE_CargoHandler</defName>
     <titleShort>Handler</titleShort>
-    <baseDesc>[PAWN_nameDef] was responsible for managing the cargo bay of a space vessel, ensuring supplies were securely stowed and inventory was accurately tracked. [PAWN_pronounCap] was physically strong and highly organized, but [PAWN_pronoun] had little patience for detailed documentation or scholarly pursuits.</baseDesc>
+    <baseDesc>[PAWN_nameDef] was responsible for managing the cargo bay of a space vessel, ensuring supplies were securely stowed and inventory was accurately tracked. [PAWN_pronoun] was physically strong and highly organized, but [PAWN_pronoun] had little patience for detailed documentation or scholarly pursuits.</baseDesc>
     <spawnCategories>
       <li>Offworld</li>
       <li>Outlander</li>
@@ -219,7 +219,7 @@
     <title>Corporate financier</title>
     <defName>VBE_CorporateFinancier</defName>
     <titleShort>Financier</titleShort>
-    <baseDesc>[PAWN_nameDef] navigated the complex world of corporate finance, managing investments and financial strategies for a major spacefaring conglomerate. [PAWN_pronoun]'s sharp mind for numbers did not translate well to the physical demands of colony life or the nuances of personal interaction.</baseDesc>
+    <baseDesc>[PAWN_nameDef] navigated the complex world of corporate finance, managing investments and financial strategies for a major spacefaring conglomerate. [PAWN_possessive] sharp mind for numbers did not translate well to the physical demands of colony life or the nuances of personal interaction.</baseDesc>
     <spawnCategories>
       <li>Offworld</li>
       <li>ImperialRoyal</li>
@@ -239,7 +239,7 @@
     <title>Starship scamp</title>
     <defName>VBE_StarshipScamp</defName>
     <titleShort>Scamp</titleShort>
-    <baseDesc>As a child born aboard the interstellar vessel 'Endeavor', [PAWN_nameDef] grew up navigating the narrow corridors and vast cargo holds of the ship. [PAWN_pronoun] learned to fix small mechanical issues from watching the crew, but [PAWN_pronoun]'s education in other areas was patchy at best, relying on shipboard terminals and any data slates [PAWN_pronoun] could get [PAWN_possessive] hands on.</baseDesc>
+    <baseDesc>As a child born aboard the interstellar vessel 'Endeavor', [PAWN_nameDef] grew up navigating the narrow corridors and vast cargo holds of the ship. [PAWN_pronoun] learned to fix small mechanical issues from watching the crew, but [PAWN_possessive] education in other areas was patchy at best, relying on shipboard terminals and any data slates [PAWN_pronoun] could get [PAWN_possessive] hands on.</baseDesc>
     <spawnCategories>
       <li>Offworld</li>
     </spawnCategories>
@@ -256,7 +256,7 @@
     <title>Young astronomer</title>
     <defName>VBE_YoungAstronomer</defName>
     <titleShort>Astronomer</titleShort>
-    <baseDesc>[PAWN_pronoun] was fascinated by the stars from a very young age. Living on a spacecraft gave [PAWN_pronoun] a unique perspective on the cosmos. [PAWN_pronoun] spent nights charting star maps and dreaming of distant galaxies. However, this obsession left little room for practical skills or socializing.</baseDesc>
+    <baseDesc>[PAWN_pronoun] was fascinated by the stars from a very young age. Living on a spacecraft gave [PAWN_objective] a unique perspective on the cosmos. [PAWN_pronoun] spent nights charting star maps and dreaming of distant galaxies. However, this obsession left little room for practical skills or socializing.</baseDesc>
     <spawnCategories>
       <li>Offworld</li>
     </spawnCategories>
@@ -273,7 +273,7 @@
     <title>Engine helper</title>
     <defName>VBE_EngineHelper</defName>
     <titleShort>Helper</titleShort>
-    <baseDesc>Even as a child, [PAWN_pronoun] was obsessed with the ship's engine room. Under the watchful eye of the engineers, [PAWN_pronoun] learned how to maintain and repair the engines that kept their world alive. This early start gave [PAWN_pronoun] a good head start in mechanical skills but meant [PAWN_pronoun] was often too busy to make friends or study other subjects.</baseDesc>
+    <baseDesc>Even as a child, [PAWN_pronoun] was obsessed with the ship's engine room. Under the watchful eye of the engineers, [PAWN_pronoun] learned how to maintain and repair the engines that kept their world alive. This early start gave [PAWN_objective] a good head start in mechanical skills but meant [PAWN_pronoun] was often too busy to make friends or study other subjects.</baseDesc>
     <spawnCategories>
       <li>Offworld</li>
     </spawnCategories>
