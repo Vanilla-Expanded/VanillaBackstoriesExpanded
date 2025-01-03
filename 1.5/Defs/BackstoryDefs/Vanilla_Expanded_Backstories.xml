@@ -404,7 +404,7 @@ This gave a basic understanding of human anatomy to [PAWN_nameDef], but scarred 
     <title>Living cure</title>
     <defName>VBE_LivingCure</defName>
     <titleShort>Living Cure</titleShort>
-    <baseDesc>When [PAWN_nameDef] was going through a checkup after [PAWN_objective] was born, doctors found out [PAWN_objective] was immune to a variety of diseases due to an extremely rare mutation, and that [PAWN_possessive] blood could be used to treat many illnesses first thought to be terminal. This led to [PAWN_nameDef] having to stay in the hospital to work as a living cure, and [PAWN_objective] was not allowed to leave.</baseDesc>
+    <baseDesc>When [PAWN_nameDef] was going through a checkup after [PAWN_pronoun] was born, doctors found out [PAWN_pronoun] was immune to a variety of diseases due to an extremely rare mutation, and that [PAWN_possessive] blood could be used to treat many illnesses first thought to be terminal. This led to [PAWN_nameDef] having to stay in the hospital to work as a living cure, and [PAWN_pronoun] was not allowed to leave.</baseDesc>
     <spawnCategories>
       <li>Offworld</li>
       <li>Outsider</li>
