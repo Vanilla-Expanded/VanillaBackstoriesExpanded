@@ -2348,7 +2348,7 @@ To [PAWN_possessive] benefactors, [PAWN_pronoun] was an expensive investment.</b
     <title>Aquaponic worker</title>
     <defName>VBE_AquaponicWorker</defName>
     <titleShort>Fishfarmer</titleShort>
-    <baseDesc>[PAWN_nameDef] used to work in an aquaponic lab. He was tasked with the production of fish and vegetables for his colony. While [PAWN_possessive] work was important it did leave little time for socializing.</baseDesc>
+    <baseDesc>[PAWN_nameDef] used to work in an aquaponic lab. [PAWN_pronoun] was tasked with the production of fish and vegetables for [PAWN_possessive] colony. While [PAWN_possessive] work was important it did leave little time for socializing.</baseDesc>
     <spawnCategories>
       <li>Outlander</li>
       <li>Offworld</li>
