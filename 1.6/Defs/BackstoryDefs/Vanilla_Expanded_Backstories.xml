@@ -16,7 +16,7 @@
       <Social>2</Social>
     </skillGains>
     <workDisables>
-      <li></li>
+      <li>None</li>
     </workDisables>
     <disallowedTraits>
       <Wimp />
@@ -87,7 +87,7 @@ This gave a basic understanding of human anatomy to [PAWN_nameDef], but scarred 
       <Melee>5</Melee>
     </skillGains>
     <workDisables>
-      <li></li>
+      <li>None</li>
     </workDisables>
     <disallowedTraits>
       <Wimp />
@@ -148,7 +148,7 @@ This gave a basic understanding of human anatomy to [PAWN_nameDef], but scarred 
       <Crafting>4</Crafting>
     </skillGains>
     <workDisables>
-      <li></li>
+      <li>None</li>
     </workDisables>
   </BackstoryDef>
   <BackstoryDef>
@@ -234,7 +234,7 @@ This gave a basic understanding of human anatomy to [PAWN_nameDef], but scarred 
       <Social>2</Social>
     </skillGains>
     <workDisables>
-      <li></li>
+      <li>None</li>
     </workDisables>
     <disallowedTraits>
       <SpeedOffset>-1</SpeedOffset>
@@ -258,7 +258,7 @@ This gave a basic understanding of human anatomy to [PAWN_nameDef], but scarred 
       <Intellectual>-2</Intellectual>
     </skillGains>
     <workDisables>
-      <li></li>
+      <li>None</li>
     </workDisables>
   </BackstoryDef>
   <BackstoryDef>
@@ -297,7 +297,7 @@ This gave a basic understanding of human anatomy to [PAWN_nameDef], but scarred 
       <Artistic>3</Artistic>
     </skillGains>
     <workDisables>
-      <li></li>
+      <li>None</li>
     </workDisables>
 	<disallowedTraits>
     <Nudist />
@@ -324,7 +324,7 @@ This gave a basic understanding of human anatomy to [PAWN_nameDef], but scarred 
       <Intellectual>1</Intellectual>
     </skillGains>
     <workDisables>
-      <li></li>
+      <li>None</li>
     </workDisables>
   </BackstoryDef>
   <BackstoryDef>
@@ -371,7 +371,7 @@ This gave a basic understanding of human anatomy to [PAWN_nameDef], but scarred 
       <Intellectual>2</Intellectual>
     </skillGains>
     <workDisables>
-      <li></li>
+      <li>None</li>
     </workDisables>
     <forcedTraits>
       <Ascetic />
@@ -396,7 +396,7 @@ This gave a basic understanding of human anatomy to [PAWN_nameDef], but scarred 
       <Social>-4</Social>
     </skillGains>
     <workDisables>
-      <li></li>
+      <li>None</li>
     </workDisables>
   </BackstoryDef>
   <BackstoryDef>
@@ -415,7 +415,7 @@ This gave a basic understanding of human anatomy to [PAWN_nameDef], but scarred 
        <Social>-5</Social>
     </skillGains>
     <workDisables>
-      <li></li>
+      <li>None</li>
     </workDisables>
     <forcedTraits>
       <Immunity>1</Immunity>
@@ -437,7 +437,7 @@ This gave a basic understanding of human anatomy to [PAWN_nameDef], but scarred 
       <Melee>2</Melee>
     </skillGains>
     <workDisables>
-      <li></li>
+      <li>None</li>
     </workDisables>
   </BackstoryDef>
   <BackstoryDef>
@@ -458,7 +458,7 @@ This gave a basic understanding of human anatomy to [PAWN_nameDef], but scarred 
        <Intellectual>-5</Intellectual>
     </skillGains>
     <workDisables>
-      <li></li>
+      <li>None</li>
     </workDisables>
   </BackstoryDef>
   <BackstoryDef>
@@ -577,7 +577,7 @@ This gave a basic understanding of human anatomy to [PAWN_nameDef], but scarred 
       <Social>4</Social>
     </skillGains>
     <workDisables>
-      <li></li>
+      <li>None</li>
     </workDisables>
   </BackstoryDef>
   <BackstoryDef>
@@ -640,7 +640,7 @@ This gave a basic understanding of human anatomy to [PAWN_nameDef], but scarred 
       <Intellectual>5</Intellectual>
     </skillGains>
     <workDisables>
-      <li></li>
+      <li>None</li>
     </workDisables>
   </BackstoryDef>
   <BackstoryDef>
@@ -660,7 +660,7 @@ This gave a basic understanding of human anatomy to [PAWN_nameDef], but scarred 
       <Social>3</Social>
     </skillGains>
     <workDisables>
-      <li></li>
+      <li>None</li>
     </workDisables>
   </BackstoryDef>
   <BackstoryDef>
@@ -704,7 +704,7 @@ This gave a basic understanding of human anatomy to [PAWN_nameDef], but scarred 
       <Social>-1</Social>
     </skillGains>
     <workDisables>
-      <li></li>
+      <li>None</li>
     </workDisables>
     <forcedTraits>
       <FastLearner />
@@ -825,7 +825,7 @@ Stoner/Lush (VTE)
       <Intellectual>3</Intellectual>
     </skillGains>
     <workDisables>
-      <li></li>
+      <li>None</li>
     </workDisables>
   </BackstoryDef>
   <BackstoryDef>
@@ -845,7 +845,7 @@ Stoner/Lush (VTE)
       <Intellectual>3</Intellectual>
     </skillGains>
     <workDisables>
-      <li></li>
+      <li>None</li>
     </workDisables>
     <!--Disallowed: Technophobe (VTE)-->
   </BackstoryDef>
@@ -946,7 +946,7 @@ Stoner/Lush (VTE)
       <Artistic>3</Artistic>
     </skillGains>
     <workDisables>
-      <li></li>
+      <li>None</li>
     </workDisables>
     <forcedTraits>
       <Industriousness>2</Industriousness>
@@ -990,7 +990,7 @@ Stoner/Lush (VTE)
       <Intellectual>5</Intellectual>
     </skillGains>
     <workDisables>
-      <li></li>
+      <li>None</li>
     </workDisables>
     <disallowedTraits>
       <Kind />
@@ -1221,7 +1221,7 @@ Other forced trait: Jogger 50%-->
       <Intellectual>-2</Intellectual>
     </skillGains>
     <workDisables>
-      <li></li>
+      <li>None</li>
     </workDisables>
     <disallowedTraits>
       <Kind />
@@ -1327,7 +1327,7 @@ Other forced trait: Jogger 50%-->
       <Social>2</Social>
     </skillGains>
     <workDisables>
-      <li></li>
+      <li>None</li>
     </workDisables>
     <disallowedTraits>
       <TorturedArtist />
@@ -1357,7 +1357,7 @@ Other forced trait: Jogger 50%-->
       <Social>3</Social>
     </skillGains>
     <workDisables>
-      <li></li>
+      <li>None</li>
     </workDisables>
   </BackstoryDef>
   <BackstoryDef>
@@ -1512,7 +1512,7 @@ Other forced trait: Jogger 50%-->
       <Social>4</Social>
     </skillGains>
     <workDisables>
-      <li></li>
+      <li>None</li>
     </workDisables>
     <disallowedTraits>
       <Abrasive />
@@ -1532,14 +1532,14 @@ Other forced trait: Jogger 50%-->
       <li>Pirate</li>
       <li>Offworld</li>
       <li>ImperialCommon</li>
-      <li></li>
+      <li>None</li>
     </spawnCategories><bodyTypeMale>Male</bodyTypeMale><bodyTypeFemale>Female</bodyTypeFemale>
     <skillGains>
       <Animals>4</Animals>
       <Medicine>2</Medicine>
     </skillGains>
     <workDisables>
-      <li></li>
+      <li>None</li>
     </workDisables>
     <forcedTraits>
       <Nimble />
@@ -1561,7 +1561,7 @@ Other forced trait: Jogger 50%-->
       <Intellectual>3</Intellectual>
     </skillGains>
     <workDisables>
-      <li></li>
+      <li>None</li>
     </workDisables>
     <forcedTraits>
       <Industriousness>-1</Industriousness>
@@ -1636,7 +1636,7 @@ Other forced trait: Jogger 50%-->
       <Social>2</Social>
     </skillGains>
     <workDisables>
-      <li></li>
+      <li>None</li>
     </workDisables>
     <disallowedTraits>
       <Nerves>-1</Nerves>
@@ -1694,7 +1694,7 @@ Other forced trait: Jogger 50%-->
       <Social>3</Social>
     </skillGains>
     <workDisables>
-      <li></li>
+      <li>None</li>
     </workDisables>
     <disallowedTraits>
       <Kind />
@@ -1745,7 +1745,7 @@ Other forced trait: Jogger 50%-->
       <Social>-3</Social>
     </skillGains>
     <workDisables>
-      <li></li>
+      <li>None</li>
     </workDisables>
   </BackstoryDef>
   <BackstoryDef>
@@ -1768,7 +1768,7 @@ Other forced trait: Jogger 50%-->
       <Social>1</Social>
     </skillGains>
     <workDisables>
-      <li></li>
+      <li>None</li>
     </workDisables>
   </BackstoryDef>
   <BackstoryDef>
@@ -1785,7 +1785,7 @@ Other forced trait: Jogger 50%-->
       <Social>1</Social>
     </skillGains>
     <workDisables>
-      <li></li>
+      <li>None</li>
     </workDisables>
   </BackstoryDef>
   <BackstoryDef>
@@ -1806,7 +1806,7 @@ Other forced trait: Jogger 50%-->
       <Social>3</Social>
     </skillGains>
     <workDisables>
-      <li></li>
+      <li>None</li>
     </workDisables>
     <disallowedTraits>
       <Brawler />
@@ -1826,7 +1826,7 @@ Other forced trait: Jogger 50%-->
       <Intellectual>5</Intellectual>
     </skillGains>
     <workDisables>
-      <li></li>
+      <li>None</li>
     </workDisables>
   </BackstoryDef>
   <BackstoryDef>
@@ -1844,7 +1844,7 @@ Other forced trait: Jogger 50%-->
       <Intellectual>1</Intellectual>
     </skillGains>
     <workDisables>
-      <li></li>
+      <li>None</li>
     </workDisables>
   </BackstoryDef>
   <BackstoryDef>
@@ -1866,7 +1866,7 @@ Other forced trait: Jogger 50%-->
       <Intellectual>1</Intellectual>
     </skillGains>
     <workDisables>
-      <li></li>
+      <li>None</li>
     </workDisables>
     <disallowedTraits>
       <Industriousness>1</Industriousness>
@@ -1894,7 +1894,7 @@ As a hobby, [PAWN_nameDef] began collecting helmets stolen from military police.
       <Intellectual>-1</Intellectual>
     </skillGains>
     <workDisables>
-      <li></li>
+      <li>None</li>
     </workDisables>
     <!--Reference to Ezra Bridger from Star Wars: Rebels-->
   </BackstoryDef>
@@ -1935,7 +1935,7 @@ As a hobby, [PAWN_nameDef] began collecting helmets stolen from military police.
     </spawnCategories><bodyTypeMale>Male</bodyTypeMale><bodyTypeFemale>Female</bodyTypeFemale>
     <skillGains/>
     <workDisables>
-      <li></li>
+      <li>None</li>
     </workDisables>
     <forcedTraits>
       <QuickSleeper />
@@ -1980,7 +1980,7 @@ As a hobby, [PAWN_nameDef] began collecting helmets stolen from military police.
       <Medicine>2</Medicine>
     </skillGains>
     <workDisables>
-      <li></li>
+      <li>None</li>
     </workDisables>
   </BackstoryDef>
   <BackstoryDef>
@@ -2009,7 +2009,7 @@ As a hobby, [PAWN_nameDef] began collecting helmets stolen from military police.
       <Intellectual>-1</Intellectual>
     </skillGains>
     <workDisables>
-      <li></li>
+      <li>None</li>
     </workDisables>
     <forcedTraits>
       <SlowLearner />
@@ -2095,7 +2095,7 @@ As a hobby, [PAWN_nameDef] began collecting helmets stolen from military police.
       <Animals>3</Animals>
     </skillGains>
     <workDisables>
-      <li></li>
+      <li>None</li>
     </workDisables>
   </BackstoryDef>
   <BackstoryDef>
@@ -2114,7 +2114,7 @@ As a hobby, [PAWN_nameDef] began collecting helmets stolen from military police.
       <Intellectual>3</Intellectual>
     </skillGains>
     <workDisables>
-      <li></li>
+      <li>None</li>
     </workDisables>
     <forcedTraits>
       <Immunity>-1</Immunity>
@@ -2140,7 +2140,7 @@ As a hobby, [PAWN_nameDef] began collecting helmets stolen from military police.
       <Intellectual>2</Intellectual>
     </skillGains>
     <workDisables>
-      <li></li>
+      <li>None</li>
     </workDisables>
   </BackstoryDef>
   <BackstoryDef>
@@ -2160,7 +2160,7 @@ As a hobby, [PAWN_nameDef] began collecting helmets stolen from military police.
       <Crafting>2</Crafting>
     </skillGains>
     <workDisables>
-      <li></li>
+      <li>None</li>
     </workDisables>
   </BackstoryDef>
   <BackstoryDef>
@@ -2178,7 +2178,7 @@ As a hobby, [PAWN_nameDef] began collecting helmets stolen from military police.
       <Crafting>4</Crafting>
     </skillGains>
     <workDisables>
-      <li></li>
+      <li>None</li>
     </workDisables>
   </BackstoryDef>
   <BackstoryDef>
@@ -2197,7 +2197,7 @@ As a hobby, [PAWN_nameDef] began collecting helmets stolen from military police.
       <Crafting>3</Crafting>
     </skillGains>
     <workDisables>
-      <li></li>
+      <li>None</li>
     </workDisables>
     <forcedTraits>
       <Kind />
@@ -2222,7 +2222,7 @@ When the heir turned out to be alive after all, [PAWN_nameDef] was discarded to 
       <Social>2</Social>
     </skillGains>
     <workDisables>
-      <li></li>
+      <li>None</li>
     </workDisables>
     <forcedTraits>
       <Brawler />
@@ -2249,7 +2249,7 @@ To [PAWN_possessive] benefactors, [PAWN_pronoun] was an expensive investment.</b
       <Intellectual>2</Intellectual>
     </skillGains>
     <workDisables>
-      <li></li>
+      <li>None</li>
     </workDisables>
     <forcedTraits>
       <FastLearner />
@@ -2293,7 +2293,7 @@ To [PAWN_possessive] benefactors, [PAWN_pronoun] was an expensive investment.</b
       <Social>2</Social>
     </skillGains>
     <workDisables>
-      <li></li>
+      <li>None</li>
     </workDisables>
     <forcedTraits>
       <Nimble />
@@ -2337,7 +2337,7 @@ To [PAWN_possessive] benefactors, [PAWN_pronoun] was an expensive investment.</b
       <Plants>-2</Plants>
     </skillGains>
     <workDisables>
-      <li></li>
+      <li>None</li>
     </workDisables>
     <disallowedTraits>
       <Undergrounder />
@@ -2360,7 +2360,7 @@ To [PAWN_possessive] benefactors, [PAWN_pronoun] was an expensive investment.</b
       <Social>-1</Social>
     </skillGains>
     <workDisables>
-      <li></li>
+      <li>None</li>
     </workDisables>
   </BackstoryDef>
   <BackstoryDef>
@@ -2378,7 +2378,7 @@ To [PAWN_possessive] benefactors, [PAWN_pronoun] was an expensive investment.</b
       <Plants>2</Plants>
     </skillGains>
     <workDisables>
-      <li></li>
+      <li>None</li>
     </workDisables>
   </BackstoryDef>
   <BackstoryDef>
@@ -2395,7 +2395,7 @@ To [PAWN_possessive] benefactors, [PAWN_pronoun] was an expensive investment.</b
       <Social>1</Social>
     </skillGains>
     <workDisables>
-      <li></li>
+      <li>None</li>
     </workDisables>
     <disallowedTraits>
       <Psychopath />
@@ -2419,7 +2419,7 @@ To [PAWN_possessive] benefactors, [PAWN_pronoun] was an expensive investment.</b
       <Social>3</Social>
     </skillGains>
     <workDisables>
-      <li></li>
+      <li>None</li>
     </workDisables>
     <disallowedTraits>
       <Abrasive />
@@ -2464,7 +2464,7 @@ To [PAWN_possessive] benefactors, [PAWN_pronoun] was an expensive investment.</b
       <Social>4</Social>
     </skillGains>
     <workDisables>
-      <li></li>
+      <li>None</li>
     </workDisables>
     <disallowedTraits>
       <Abrasive />
@@ -2487,7 +2487,7 @@ To [PAWN_possessive] benefactors, [PAWN_pronoun] was an expensive investment.</b
       <Social>-1</Social>
     </skillGains>
     <workDisables>
-      <li></li>
+      <li>None</li>
     </workDisables>
     <disallowedTraits>
       <Wimp />
@@ -2508,7 +2508,7 @@ To [PAWN_possessive] benefactors, [PAWN_pronoun] was an expensive investment.</b
       <Plants>4</Plants>
     </skillGains>
     <workDisables>
-      <li></li>
+      <li>None</li>
     </workDisables>
     <disallowedTraits>
       <NaturalMood>2</NaturalMood>
@@ -2550,7 +2550,7 @@ To [PAWN_possessive] benefactors, [PAWN_pronoun] was an expensive investment.</b
       <Plants>3</Plants>
     </skillGains>
     <workDisables>
-      <li></li>
+      <li>None</li>
     </workDisables>
     <disallowedTraits>
       <PsychicSensitivity>-2</PsychicSensitivity>
@@ -2576,7 +2576,7 @@ To [PAWN_possessive] benefactors, [PAWN_pronoun] was an expensive investment.</b
       <Crafting>4</Crafting>
     </skillGains>
     <workDisables>
-      <li></li>
+      <li>None</li>
     </workDisables>
     <forcedTraits>
       <Psychopath />
@@ -2601,7 +2601,7 @@ To [PAWN_possessive] benefactors, [PAWN_pronoun] was an expensive investment.</b
       <Medicine>-1</Medicine>
     </skillGains>
     <workDisables>
-      <li></li>
+      <li>None</li>
     </workDisables>
   </BackstoryDef>
   <BackstoryDef>
@@ -2619,7 +2619,7 @@ To [PAWN_possessive] benefactors, [PAWN_pronoun] was an expensive investment.</b
       <Social>1</Social>
     </skillGains>
     <workDisables>
-      <li></li>
+      <li>None</li>
     </workDisables>
     <disallowedTraits>
       <Abrasive />
@@ -2646,7 +2646,7 @@ To [PAWN_possessive] benefactors, [PAWN_pronoun] was an expensive investment.</b
       <Crafting>1</Crafting>
     </skillGains>
     <workDisables>
-      <li></li>
+      <li>None</li>
     </workDisables>
   </BackstoryDef>
   <BackstoryDef>
@@ -2669,7 +2669,7 @@ To [PAWN_possessive] benefactors, [PAWN_pronoun] was an expensive investment.</b
       <Artistic>2</Artistic>
     </skillGains>
     <workDisables>
-      <li></li>
+      <li>None</li>
     </workDisables>
   </BackstoryDef>
   <BackstoryDef>
@@ -2721,7 +2721,7 @@ To [PAWN_possessive] benefactors, [PAWN_pronoun] was an expensive investment.</b
       <Intellectual>-4</Intellectual>
     </skillGains>
     <workDisables>
-      <li></li>
+      <li>None</li>
     </workDisables>
     <disallowedTraits>
       <Industriousness>-1</Industriousness>
@@ -2778,7 +2778,7 @@ To [PAWN_possessive] benefactors, [PAWN_pronoun] was an expensive investment.</b
       <Crafting>2</Crafting>
     </skillGains>
     <workDisables>
-      <li></li>
+      <li>None</li>
     </workDisables>
   </BackstoryDef>
   <BackstoryDef>
@@ -2795,7 +2795,7 @@ To [PAWN_possessive] benefactors, [PAWN_pronoun] was an expensive investment.</b
       <Social>1</Social>
     </skillGains>
     <workDisables>
-      <li></li>
+      <li>None</li>
     </workDisables>
     <forcedTraits>
       <NaturalMood>2</NaturalMood>
@@ -2858,7 +2858,7 @@ To [PAWN_possessive] benefactors, [PAWN_pronoun] was an expensive investment.</b
       <Animals>2</Animals>
     </skillGains>
     <workDisables>
-      <li></li>
+      <li>None</li>
     </workDisables>
     <forcedTraits>
       <Brawler />
@@ -3020,7 +3020,7 @@ To [PAWN_possessive] benefactors, [PAWN_pronoun] was an expensive investment.</b
       <Social>3</Social>
     </skillGains>
     <workDisables>
-      <li></li>
+      <li>None</li>
     </workDisables>
     <forcedTraits>
       <Psychopath />
@@ -3076,7 +3076,7 @@ To [PAWN_possessive] benefactors, [PAWN_pronoun] was an expensive investment.</b
       <Plants>1</Plants>
     </skillGains>
     <workDisables>
-      <li></li>
+      <li>None</li>
     </workDisables>
     <forcedTraits>
       <Gourmand />
@@ -3147,7 +3147,7 @@ To [PAWN_possessive] benefactors, [PAWN_pronoun] was an expensive investment.</b
       <Animals>4</Animals>
     </skillGains>
     <workDisables>
-      <li></li>
+      <li>None</li>
     </workDisables>
     <disallowedTraits>
       <DrugDesire>-1</DrugDesire>
@@ -3387,7 +3387,7 @@ To [PAWN_possessive] benefactors, [PAWN_pronoun] was an expensive investment.</b
       <Social>-2</Social>
     </skillGains>
     <workDisables>
-      <li></li>
+      <li>None</li>
     </workDisables>
     <disallowedTraits>
       <Immunity>-1</Immunity>
